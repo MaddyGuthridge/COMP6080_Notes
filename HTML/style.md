@@ -1,4 +1,4 @@
-`<style>` tags are used to write [[CSS]] within an [[HTML]] document.
+#style tags are used to write [[CSS]] within an [[HTML]] document.
 
 ```html
 <style>

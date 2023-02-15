@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/style.md",
+                "file": "HTML/anchor.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,22 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/inclusion.md",
+                "file": "HTML/header.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa96a90461aeef79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML/header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/header.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/header.md"
+              }
             }
           }
         ]
@@ -212,17 +208,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa96a90461aeef79",
+  "active": "aa76a607cd13291a",
   "lastOpenFiles": [
     "CSS/CSS.md",
+    "HTML/header.md",
     "CSS/inclusion.md",
     "HTML/style.md",
+    "HTML/body.md",
+    "HTML/anchor.md",
     "HTML/span.md",
     "Overview.md",
     "README.md",
-    "Other stuff/Image encoding.md",
-    "CSS/selectors.md",
-    "HTML/HTML.md",
-    "HTML/header.md"
+    "Other stuff/Image encoding.md"
   ]
 }

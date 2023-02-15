@@ -13,3 +13,4 @@
 - #div vertical sections (see [[div]])
 - #img image
 - #a [[anchor]] (used for links)
+- #style [[CSS]] within the HTML document (see [[style]])
