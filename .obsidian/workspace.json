@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inclusion.md",
+                "file": "CSS/inclusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa76a607cd13291a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/usage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inclusion.md",
+                "file": "CSS/usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inclusion.md",
+                "file": "CSS/usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inclusion.md"
+                "file": "CSS/usage.md"
               }
             }
           }
@@ -192,15 +204,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1a9eae73dee1ba9",
+  "active": "aa76a607cd13291a",
   "lastOpenFiles": [
+    "CSS/inclusion.md",
+    "CSS/usage.md",
+    "Other stuff/Image encoding.md",
     "README.md",
     "HTML/header.md",
     "Overview.md",
     "HTML/body.md",
     "HTML/div.md",
     "HTML/span.md",
-    "Other stuff/Image encoding.md",
     "HTML/anchor.md"
   ]
 }
