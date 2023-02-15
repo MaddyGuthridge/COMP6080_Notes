@@ -9,7 +9,7 @@
 - #ul unordered list
 	- #li list item
 - #ol ordered list
-- #span horizontal sections
-- #div vertical sections
+- #span horizontal sections (see [[span]])
+- #div vertical sections (see [[div]])
 - #img image
 - #a [[anchor]] (used for links)
