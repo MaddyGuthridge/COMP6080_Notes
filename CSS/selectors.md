@@ -101,3 +101,17 @@ Selects three, four
 ```css
 .C ~ .B { color: green; }
 ```
+
+## Pseudo-classes
+
+`selector:pseudo-class` selects elements with a special state
+
+Selects a button that has the user's mouse hovering over it
+```css
+button:hover { background-color: white; }
+```
+
+Selects an input that has the user's cursor focused on it
+```css
+input:focus { colo}
+```
