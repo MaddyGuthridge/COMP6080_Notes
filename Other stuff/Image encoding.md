@@ -1,0 +1,1 @@
+Small images can be encoded as a base-64 string to prevent the browser from needing to make extra requests.
