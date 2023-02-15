@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3abfb8f13dd49cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c276e499a22cb9da",
             "type": "leaf",
             "state": {
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CSS/selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,31 +68,19 @@
             }
           },
           {
-            "id": "0657f097f9f1188b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa96a90461aeef79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/css.md",
+                "file": "CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css.md",
+                "file": "CSS/selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css.md",
+                "file": "CSS/selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css.md"
+                "file": "CSS/selectors.md"
               }
             }
           }
@@ -208,17 +208,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa96a90461aeef79",
+  "active": "aefe15be05520a3e",
   "lastOpenFiles": [
-    "CSS/selectors.md",
-    "CSS/inclusion.md",
-    "Other stuff/Image encoding.md",
-    "README.md",
-    "HTML/header.md",
     "Overview.md",
-    "HTML/body.md",
-    "HTML/div.md",
+    "CSS/inclusion.md",
+    "CSS/CSS.md",
+    "Other stuff/Image encoding.md",
     "HTML/span.md",
+    "HTML/HTML.md",
+    "HTML/header.md",
+    "HTML/div.md",
+    "HTML/body.md",
     "HTML/anchor.md"
   ]
 }

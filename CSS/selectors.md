@@ -1,3 +1,5 @@
+Selectors are defined within [[CSS]] to control which elements of the [[HTML]] have the styles defined on them.
+
 ```html
 <style>
   /* a comment */

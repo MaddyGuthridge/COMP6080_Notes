@@ -1,7 +1,7 @@
 ### HTML
 - Content (made up of a [[header]] and a [[body]])
 
-### CSS
+### [[CSS]]
 - Style
 
 ### JavaScript
