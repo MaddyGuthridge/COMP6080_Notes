@@ -31,5 +31,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
