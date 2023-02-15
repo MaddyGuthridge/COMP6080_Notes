@@ -4,7 +4,8 @@
 ```
 
 - Browser can cache, speeding up load-times
-- Preferred
+- Use [[selectors]] in CSS to select elements of the HTML
+- Preferred method
 
 ## Inline
 ```html
@@ -24,6 +25,7 @@
 ```
 
 - Good for quick work where multiple things need to use the same style
+- Use [[selectors]] in CSS to select elements of the HTML
 
 ## What to use
 - Prefer external file

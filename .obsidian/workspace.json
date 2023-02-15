@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0657f097f9f1188b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "4ad3a933a551cc6e",
             "type": "leaf",
             "state": {
@@ -52,7 +44,7 @@
             }
           },
           {
-            "id": "e1a9eae73dee1ba9",
+            "id": "aa76a607cd13291a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,19 +56,19 @@
             }
           },
           {
-            "id": "aa76a607cd13291a",
+            "id": "0657f097f9f1188b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/usage.md",
+                "file": "CSS/selectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/usage.md",
+                "file": "CSS/selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/usage.md",
+                "file": "CSS/selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/usage.md"
+                "file": "CSS/selectors.md"
               }
             }
           }
@@ -204,10 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa76a607cd13291a",
+  "active": "0657f097f9f1188b",
   "lastOpenFiles": [
     "CSS/inclusion.md",
-    "CSS/usage.md",
+    "CSS/selectors.md",
     "Other stuff/Image encoding.md",
     "README.md",
     "HTML/header.md",
