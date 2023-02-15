@@ -8,3 +8,4 @@ Used to provide links to other content
 - `href` - URL to link to
 - `title` - tooltip on mouse-over
 - `target` - location to open (`_blank`) for new tab
+- `download` - make the browser download the file rather than just open it
