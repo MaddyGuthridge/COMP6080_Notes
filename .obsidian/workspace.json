@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cec9a1ea571d7052",
+        "id": "3fbc0fc347c58327",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd0839a79635456",
+            "id": "0657f097f9f1188b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/anchor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/anchor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/anchor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML/anchor.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +139,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cd0839a79635456",
+  "active": "0657f097f9f1188b",
   "lastOpenFiles": [
-    "HTML/Body tags.md",
-    "HTML/Header.md",
-    "HTML/anchor.md",
+    "README.md",
     "Overview.md",
-    "Untitled.md"
+    "HTML/anchor.md",
+    "HTML/Body tags.md",
+    "HTML/Header.md"
   ]
 }
