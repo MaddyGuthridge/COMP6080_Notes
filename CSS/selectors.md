@@ -9,13 +9,21 @@ Selectors are defined within [[CSS]] to control which elements of the [[HTML]] h
 </style>
 ```
 
-`.classname` is the selector. It's used to select elements in the HTML
+`.classname` is the selector.
 
 ## Class
 Preceding with a `.` dot will make it match a `class` so it can be applied to specific elements
 
 ```html
 <span class="classname">Some blue text</span>
+```
+
+Multiple classes can be used to include both their properties
+
+```html
+<span class="one-class two-class red-class blue-class">
+  Some very stylish text
+</span>
 ```
 
 ## ID

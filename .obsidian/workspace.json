@@ -210,15 +210,15 @@
   },
   "active": "aefe15be05520a3e",
   "lastOpenFiles": [
-    "Overview.md",
     "CSS/inclusion.md",
+    "HTML/HTML.md",
+    "CSS/selectors.md",
+    "Overview.md",
     "CSS/CSS.md",
     "Other stuff/Image encoding.md",
     "HTML/span.md",
-    "HTML/HTML.md",
     "HTML/header.md",
     "HTML/div.md",
-    "HTML/body.md",
-    "HTML/anchor.md"
+    "HTML/body.md"
   ]
 }
