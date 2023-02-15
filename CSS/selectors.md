@@ -77,9 +77,27 @@ Consider the following HTML
 <span class="B">six</span>
 ```
 
-
+**Decendant**: all `.B` elements inside `.A`
+Selects one, three, four, five
 ```css
-/* Decendant: all .B elements inside .A */
-/* one, three, four, five */
 .A .B { color: red; }
+```
+
+**Child**: all `.B` which are direct children of `.A`
+Selects one, three, four
+Note that five is not selected as it is a grandchild of `.A`
+```css
+.A > .B { color: blue; }
+```
+
+**Adjacent sibling**: any `.B` that directly follows a `.C`
+Selects three
+```css
+.C + .B { color: purple; }
+```
+
+**General sibling**: any `.b` that follows a `.c`
+Selects three, four
+```css
+.C ~ .B { color: green; }
 ```
