@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/header.md",
+                "file": "HTML/body.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/header.md",
+                "file": "HTML/body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/header.md",
+                "file": "HTML/body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/header.md"
+                "file": "HTML/body.md"
               }
             }
           }
@@ -208,17 +209,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa76a607cd13291a",
+  "active": "8ff194c6ace384d2",
   "lastOpenFiles": [
+    "HTML/anchor.md",
+    "CSS/selectors.md",
+    "CSS/inclusion.md",
     "CSS/CSS.md",
     "HTML/header.md",
-    "CSS/inclusion.md",
     "HTML/style.md",
     "HTML/body.md",
-    "HTML/anchor.md",
     "HTML/span.md",
     "Overview.md",
-    "README.md",
-    "Other stuff/Image encoding.md"
+    "README.md"
   ]
 }

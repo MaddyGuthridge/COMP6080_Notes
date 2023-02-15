@@ -1,13 +1,14 @@
-- #p paragraph
-- #br line break
-- #b bold
-- #i italics
-- #u underline
-- #table table 
-	- #tr table row
-	- #td table cell
-- #ul unordered list
-	- #li list item
+- `<p>` paragraph
+- `<br>` line break
+- `<b>` bold
+- `<i>` italics
+- `<u>` underline
+- `<table>` take a guess
+	- `<tr>` table row
+	- `<th>` table header cell
+	- `<td>` table cell
+- `<ul>` unordered list
+	- `<li>` list item
 - #ol ordered list
 - #span horizontal sections (see [[span]])
 - #div vertical sections (see [[div]])
