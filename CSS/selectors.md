@@ -113,5 +113,11 @@ button:hover { background-color: white; }
 
 Selects an input that has the user's cursor focused on it
 ```css
-input:focus { colo}
+input:focus { color: pink; }
+```
+
+Selects an [[anchor]] that has been visited.
+```css
+a:visited { color: pink; 
+/* Yep, you definitely clicked on that rickroll, didn't you */
 ```
