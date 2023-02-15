@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/Image encoding.md",
+                "file": "CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff/Image encoding.md",
+                "file": "CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff/Image encoding.md",
+                "file": "CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff/Image encoding.md"
+                "file": "CSS/CSS.md"
               }
             }
           }
@@ -210,15 +210,15 @@
   },
   "active": "aefe15be05520a3e",
   "lastOpenFiles": [
+    "Overview.md",
+    "README.md",
+    "Other stuff/Image encoding.md",
     "CSS/selectors.md",
     "CSS/inclusion.md",
     "HTML/HTML.md",
-    "Overview.md",
     "CSS/CSS.md",
-    "Other stuff/Image encoding.md",
     "HTML/span.md",
     "HTML/header.md",
-    "HTML/div.md",
-    "HTML/body.md"
+    "HTML/div.md"
   ]
 }

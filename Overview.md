@@ -1,8 +1,8 @@
-### HTML
+### [[HTML]]
 - Content (made up of a [[header]] and a [[body]])
 
 ### [[CSS]]
-- Style
+- Cascading style sheet
 
 ### JavaScript
 - Dynamic content
