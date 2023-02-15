@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa96a90461aeef79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/selectors.md",
+                "file": "CSS/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/selectors.md",
+                "file": "CSS/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/selectors.md"
+                "file": "CSS/css.md"
               }
             }
           }
@@ -196,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0657f097f9f1188b",
+  "active": "fa96a90461aeef79",
   "lastOpenFiles": [
-    "CSS/inclusion.md",
     "CSS/selectors.md",
+    "CSS/inclusion.md",
     "Other stuff/Image encoding.md",
     "README.md",
     "HTML/header.md",

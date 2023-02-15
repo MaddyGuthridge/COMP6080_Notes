@@ -118,6 +118,6 @@ input:focus { color: pink; }
 
 Selects an [[anchor]] that has been visited.
 ```css
-a:visited { color: pink; 
+a:visited { color: pink; }
 /* Yep, you definitely clicked on that rickroll, didn't you */
 ```
