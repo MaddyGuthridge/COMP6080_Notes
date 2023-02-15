@@ -59,4 +59,27 @@ Using the name of a tag will style all instances of that tag
 ```
 
 ## Combinators
-You can combine the above selectors
+You can combine the above selectors.
+
+Consider the following HTML
+
+```html
+<!-- Yoinked straight from the lecture slides -->
+<div class="A">
+  <span class="B">one</span>
+  <span class="C">two</span>
+  <span class="B">three</span>
+  <span class="B">four</span>
+  <div>
+    <span class="B">five</span>
+  </div>
+</div>
+<span class="B">six</span>
+```
+
+
+```css
+/* Decendant: all .B elements inside .A */
+/* one, three, four, five */
+.A .B { color: red; }
+```
