@@ -9,9 +9,9 @@
 	- `<td>` table cell
 - `<ul>` unordered list
 	- `<li>` list item
-- #ol ordered list
-- #span horizontal sections (see [[span]])
-- #div vertical sections (see [[div]])
-- #img image
-- #a [[anchor]] (used for links)
-- #style [[CSS]] within the HTML document (see [[style]])
+- `<ol>` ordered list
+- `<span>` horizontal sections (see [[span]])
+- `<div>` vertical sections (see [[div]])
+- `<img>` image
+- `<a>` [[anchor]] (used for links)
+- `<style>` [[CSS]] within the HTML document (see [[style]])

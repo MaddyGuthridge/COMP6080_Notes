@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdba36e70cfbe05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/header.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cf296ea22963764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/favicon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/body.md",
+                "file": "HTML/favicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/body.md",
+                "file": "HTML/favicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/body.md"
+                "file": "HTML/favicon.md"
               }
             }
           }
@@ -209,17 +232,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ff194c6ace384d2",
+  "active": "7cf296ea22963764",
   "lastOpenFiles": [
+    "HTML/header.md",
+    "HTML/HTML.md",
+    "HTML/style.md",
+    "HTML/span.md",
+    "HTML/div.md",
+    "HTML/body.md",
     "HTML/anchor.md",
     "CSS/selectors.md",
     "CSS/inclusion.md",
-    "CSS/CSS.md",
-    "HTML/header.md",
-    "HTML/style.md",
-    "HTML/body.md",
-    "HTML/span.md",
-    "Overview.md",
-    "README.md"
+    "CSS/CSS.md"
   ]
 }
