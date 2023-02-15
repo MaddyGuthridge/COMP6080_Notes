@@ -15,6 +15,12 @@ Selectors are defined within [[CSS]] to control which elements of the [[HTML]] h
 Preceding with a `.` dot will make it match a `class` so it can be applied to specific elements
 
 ```html
+<style>
+  .classname {
+	color: red;
+  }
+</style>
+
 <span class="classname">Some blue text</span>
 ```
 
