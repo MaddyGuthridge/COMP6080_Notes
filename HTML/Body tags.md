@@ -1,0 +1,15 @@
+- #p paragraph
+- #br line break
+- #b bold
+- #i italics
+- #u underline
+- #table table 
+	- #tr table row
+	- #td table cell
+- #ul unordered list
+	- #li list item
+- #ol ordered list
+- #span horizontal sections
+- #div vertical sections
+- #img image
+- #a [[anchor]] (used for links)
