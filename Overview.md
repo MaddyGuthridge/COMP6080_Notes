@@ -1,5 +1,5 @@
 ### [[HTML]]
-- Content (made up of a [[header]] and a [[body]])
+- Content (made up of a [[head]] and a [[body]])
 
 ### [[CSS]]
 - Cascading style sheet

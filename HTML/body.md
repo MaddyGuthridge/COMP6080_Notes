@@ -16,5 +16,8 @@
 - `<a>` [[anchor]] (used for links)
 - `<style>` [[CSS]] within the HTML document (see [[style]])
 - `<blockquote>` a quote of another page
-- `<code>` used to contain code, displayed in a monospace font - often wrapped inside `<pre>` to respect whitespace
+- `<code>` used to contain code, displayed in a monospace font - often wrapped inside `<pre>` to respect whitespace. Used to help web crawlers and screen readers find code on the page
 - `<pre>` preformatted text, meaning that whitespace is respected.
+- `<header>` help web crawlers and screen readers find the header on the page
+- `<nav>` help web crawlers and screen readers find the navigation on the page
+- `<footer>` help web crawlers and screen readers find the footer on the page

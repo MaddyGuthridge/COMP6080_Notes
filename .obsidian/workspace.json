@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/body.md",
+                "file": "HTML/head.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/body.md",
+                "file": "HTML/head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/body.md",
+                "file": "HTML/head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/body.md"
+                "file": "HTML/head.md"
               }
             }
           }
@@ -234,13 +234,13 @@
   },
   "active": "fdba36e70cfbe05e",
   "lastOpenFiles": [
+    "HTML/body.md",
+    "HTML/head.md",
     "HTML/favicon.md",
-    "HTML/header.md",
     "HTML/HTML.md",
     "HTML/style.md",
     "HTML/span.md",
     "HTML/div.md",
-    "HTML/body.md",
     "HTML/anchor.md",
     "CSS/selectors.md",
     "CSS/inclusion.md"
