@@ -1,3 +1,5 @@
+Multiple ways to define colour in CSS
+
 ### Colour names
 For example
 - `blue`
@@ -14,4 +16,10 @@ rgb(200, 100, 0);
 
 ```
 #C86400
+```
+
+### HSL
+Hue, saturation, lightness
+```
+hsl(255, 100%, 50%)
 ```
