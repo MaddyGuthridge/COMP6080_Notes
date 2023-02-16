@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ad3a933a551cc6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/body.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3abfb8f13dd49cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c276e499a22cb9da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/span.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aefe15be05520a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/span.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ccfb5a6f73e055f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/anchor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa76a607cd13291a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/body.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fdba36e70cfbe05e",
             "type": "leaf",
             "state": {
@@ -88,31 +16,31 @@
             }
           },
           {
-            "id": "4fa6921688cdbbb8",
+            "id": "62235bdf37625abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/meta.md",
+                "file": "CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cf296ea22963764",
+            "id": "7b69ec9c90179775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/favicon.md",
+                "file": "CSS/Properties.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS/Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS/Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS/Properties.md"
+              }
             }
           }
         ]
@@ -236,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdba36e70cfbe05e",
+  "active": "7b69ec9c90179775",
   "lastOpenFiles": [
+    "CSS/CSS.md",
     "HTML/body.md",
     "HTML/head.md",
     "HTML/meta.md",
@@ -246,7 +179,6 @@
     "HTML/style.md",
     "HTML/span.md",
     "HTML/div.md",
-    "HTML/anchor.md",
-    "CSS/selectors.md"
+    "HTML/anchor.md"
   ]
 }

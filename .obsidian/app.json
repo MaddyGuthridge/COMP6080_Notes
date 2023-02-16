@@ -4,5 +4,6 @@
   "spellcheck": true,
   "strictLineBreaks": true,
   "attachmentFolderPath": "./",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "tabSize": 2
 }
