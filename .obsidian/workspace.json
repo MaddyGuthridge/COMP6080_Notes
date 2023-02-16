@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/color.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/color.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,17 +187,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f12fc03414ed82b",
+  "active": "fdba36e70cfbe05e",
   "lastOpenFiles": [
+    "CSS/div properties.md",
+    "CSS/color.md",
     "CSS/inclusion.md",
     "CSS/text properties.md",
-    "CSS/div properties.md",
     "CSS/CSS.md",
     "CSS/properties.md",
     "CSS/selectors.md",
     "HTML/body.md",
     "HTML/head.md",
-    "HTML/meta.md",
-    "HTML/favicon.md"
+    "HTML/meta.md"
   ]
 }

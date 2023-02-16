@@ -1,7 +1,7 @@
 These can be applied to most things I think, but they work best on [[div]]s.
 
 ### `background-color`
-Use a colour as the background
+Use a [[color|colour]] as the background
 
 ### `background-image`
 Apply a background image to the element
