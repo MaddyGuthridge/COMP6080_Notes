@@ -21,5 +21,5 @@ rgb(200, 100, 0);
 ### HSL
 Hue, saturation, lightness
 ```
-hsl(255, 100%, 50%)
+hsl(255, 100%, 50%);
 ```
