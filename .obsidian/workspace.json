@@ -83,8 +83,12 @@
             "id": "fdba36e70cfbe05e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTML/body.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -166,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML/body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/body.md"
+              }
             }
           }
         ]

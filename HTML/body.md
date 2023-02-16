@@ -15,3 +15,6 @@
 - `<img>` image
 - `<a>` [[anchor]] (used for links)
 - `<style>` [[CSS]] within the HTML document (see [[style]])
+- `<blockquote>` a quote of another page
+- `<code>` used to contain code, displayed in a monospace font - often wrapped inside `<pre>` to respect whitespace
+- `<pre>` preformatted text, meaning that whitespace is respected.
