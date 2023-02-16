@@ -83,12 +83,8 @@
             "id": "fdba36e70cfbe05e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/body.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -182,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML/body.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -246,9 +238,9 @@
   },
   "active": "fdba36e70cfbe05e",
   "lastOpenFiles": [
+    "HTML/body.md",
     "HTML/head.md",
     "HTML/meta.md",
-    "HTML/body.md",
     "HTML/favicon.md",
     "HTML/HTML.md",
     "HTML/style.md",

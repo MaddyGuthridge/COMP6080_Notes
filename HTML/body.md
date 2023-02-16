@@ -22,6 +22,8 @@
 - `<nav>` help web crawlers and screen readers find the navigation on the page
 - `<footer>` help web crawlers and screen readers find the footer on the page
 - `<abbr>` add a tooltip to explain an abbreviation. Could be helpful for screen readers?
-- `<noscript>` appears if
+- `<noscript>` content appears if JavaScript is disabled
+- `<embed>` embed content from another page (used for things like YouTube videos)
+- `<iframe>` embed an entire webpage within your page
 
 See also: [[head]]
