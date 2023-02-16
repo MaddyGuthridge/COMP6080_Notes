@@ -1,3 +1,5 @@
+Properties that can be applied to text
+
 ### `color`
 Colour of the content (name of color or hex)
 ```css
