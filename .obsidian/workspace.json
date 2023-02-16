@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/selectors.md",
+                "file": "CSS/div properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/selectors.md",
+                "file": "CSS/div properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/selectors.md",
+                "file": "CSS/div properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/selectors.md"
+                "file": "CSS/div properties.md"
               }
             }
           }
@@ -182,10 +182,10 @@
   },
   "active": "7b69ec9c90179775",
   "lastOpenFiles": [
-    "CSS/text properties.md",
+    "CSS/CSS.md",
     "CSS/properties.md",
     "CSS/div properties.md",
-    "CSS/CSS.md",
+    "CSS/text properties.md",
     "CSS/selectors.md",
     "CSS/inclusion.md",
     "HTML/body.md",

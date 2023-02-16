@@ -12,7 +12,7 @@ Selectors are defined within [[CSS]] to control which elements of the [[HTML]] h
 `.classname` is the selector.
 
 ## Class
-Preceding with a `.` dot will make it match a `class` so its  can be applied to specific elements
+Preceding with a `.` dot will make it match a `class` so its [[properties]] can be applied to specific elements
 
 ```html
 <style>

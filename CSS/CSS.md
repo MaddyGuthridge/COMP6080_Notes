@@ -1,4 +1,4 @@
-Cascading style sheets
+Cascading style sheets. Used to apply [[properties]] to an HTML document
 
 ## Cascade
 Each element is applied in order. See also: [[inclusion]]
@@ -9,7 +9,7 @@ Each element is applied in order. See also: [[inclusion]]
 	- You should probably avoid them though, because they are hacky and make code very unclean
 
 Also consider *specificity*
-- If multiple rules provide the same [[properties]], the most specific one is chosen
+- If multiple rules provide the same properties, the most specific one is chosen
 - [Specifishity](https://specifishity.com) explains it
 - This is kinda complicated
 - You'll probably never use it
