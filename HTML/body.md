@@ -21,5 +21,7 @@
 - `<header>` help web crawlers and screen readers find the header on the page
 - `<nav>` help web crawlers and screen readers find the navigation on the page
 - `<footer>` help web crawlers and screen readers find the footer on the page
+- `<abbr>` add a tooltip to explain an abbreviation. Could be helpful for screen readers?
+- `<noscript>` appears if
 
-See also: [[hea]]
+See also: [[head]]
