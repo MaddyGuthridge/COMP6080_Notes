@@ -8,6 +8,9 @@ Apply a background image to the element
 ```css
 .my-fancy-div {
 	background-image: url("https://i.ytimg.com/vi_webp/dQw4w9WgXcQ/maxresdefault.webp");
-	background-size: 
+	background-size: 100% auto;
 }
 ```
+We need to specify the `background-size` or it might be too big.
+
+This can also be done using various elements in the `background` property.
