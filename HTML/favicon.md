@@ -1,4 +1,4 @@
-The icon used in the browser's tab bar to represent the icon. Placed in the [[header]] of the [[HTML]]
+The icon used in the browser's tab bar to represent the icon. Placed in the [[header]] of the [[HTML]] document.
 
 ```html
 <head>
