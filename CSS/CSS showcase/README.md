@@ -1,1 +1,3 @@
-Notes on the CSS showcase lecture. Not examined course content.
+Notes on the [[CSS]] showcase lecture. Not examinable course content.
+
+- [[backgrounds]]
