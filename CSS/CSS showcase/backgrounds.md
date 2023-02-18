@@ -22,10 +22,12 @@ Create a gradient background
 	  red 40%,
 	  orange 60%,
 	  yellow 80%,
-	  white 100%
+	  white 100%,
   );
 }
 ```
 
 ### `radial-gradient()`
-Create a gradient from a point.
+Create a gradient from a point. Usage similar to above.
+
+You c
