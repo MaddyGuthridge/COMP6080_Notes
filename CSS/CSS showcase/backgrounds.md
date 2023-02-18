@@ -46,6 +46,9 @@ Y'know the circus bursty thing? This is it.
 }
 ```
 
+Making something like this by hand is likely pain. The lecturer shows some JS to automate it,
+but we haven't covered that yet, so like........ 🤔
+
 ### Repeating gradients
 You can use a `repeating-` prefix to get a repeating variation of the above types. Space out the distances in `px` instead of `%`.
 ```css
