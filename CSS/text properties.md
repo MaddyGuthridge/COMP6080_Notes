@@ -9,7 +9,7 @@ Colour of the content (name of color or hex)
 ```
 
 ### `font-weight`
-Weight of font
+Weight of [[font]]
 - `bold`
 - `thin`
 - etc
@@ -18,7 +18,7 @@ Weight of font
 Family of font
 
 ### `font-size`
-- Emmets - `1em` = standard font size
+- Widths of M's - `1em` = standard font size
 - Percent - `100%` = standard font size
 - Number of pixels (eg `12px`)
 
@@ -45,4 +45,4 @@ How much space to use between letters
 	letter-spacing: 3px;
 }
 ```
-For a pretty fun effect, change this to a negative value.
+For a pretty fun effect, change this to a negative value, and you'll make the letters join together.

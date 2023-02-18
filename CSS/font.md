@@ -26,4 +26,7 @@ There are several ways a font can be used:
 You can just link to some other server that has the font, such as [Google Fonts](https://fonts.google.com).
 
 ## Font size
-Many ways to 
+Many ways to define it. Just use `em` (width of the character `M`) or `rem`.
+
+- `em` is compound: if you do it twice, it'll multiply them, which can lead to unintended side effects.
+- `rem` is not compound - it'll always be relative to the default font size, which is helpful.
