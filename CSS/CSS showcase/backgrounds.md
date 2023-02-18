@@ -58,7 +58,7 @@ You can use a `repeating-` prefix to get a repeating variation of the above type
 	  blue 0px,
 	  blue 10px,
 	  purple 10px,  /* By placing this at the same point as earlier, we get 
-	                   a solid line rather than a gradient at this point */
+	                 * a solid line rather than a gradient at this point */
 	  purple 20px
 	  /* this pattern repeats forever */
 	);

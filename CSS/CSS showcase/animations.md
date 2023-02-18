@@ -1,4 +1,4 @@
-You can use keyframes to animate CSS features.
+You can use key-frames to animate CSS features.
 
 ```css
 .animated {
@@ -24,7 +24,7 @@ You can use keyframes to animate CSS features.
 	/* 0% of the way through the animation, we should shift the background */
 	0% { background-position: -28px -28px; }
 	/* 100% of the way through the animation, we should have the background 
-	   normal */
+	 * normal */
 	100% { background-position: 0px 0px; }
 }
 ```
