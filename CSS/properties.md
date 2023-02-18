@@ -1,4 +1,4 @@
 See:
 - [[text properties]]
-- [[div properties]]
+- [[main properties]]
 - [[position]] properties

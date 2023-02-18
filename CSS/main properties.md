@@ -1,4 +1,4 @@
-These can be applied to most things I think, but they work best on [[div]]s.
+These can be applied to most things I think.
 
 ### `background-color`
 Use a [[color|colour]] as the background
@@ -20,3 +20,6 @@ This can also be done using various elements in the `background` property.
 Changes the visibility of elements
 - `hidden`: space for element is taken, but no content is rendered
 - `none`: no space for element is taken, useful for JavaScript
+
+### `z-index`
+"3D position" of the element - allows for placing elements on top of others.
