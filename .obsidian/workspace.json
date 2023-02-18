@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "84c035610ed8ab87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/fonts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b22f5baaf227d7b9",
             "type": "leaf",
             "state": {
@@ -184,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS showcase/filters.md",
+                "file": "CSS/fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS showcase/filters.md",
+                "file": "CSS/fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS showcase/filters.md"
+                "file": "CSS/fonts.md"
               }
             }
           },
@@ -321,8 +333,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36fbd8258487c842",
+  "active": "bb37648729f379b7",
   "lastOpenFiles": [
+    "CSS/CSS showcase/filters.md",
     "CSS/CSS showcase/masking.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/CSS showcase/animations.md",
@@ -331,7 +344,6 @@
     "CSS/main properties.md",
     "CSS/flexbox.md",
     "CSS/properties.md",
-    "CSS/position.md",
-    "CSS/float.md"
+    "CSS/position.md"
   ]
 }
