@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS showcase/animations.md",
+                "file": "CSS/CSS showcase/backgrounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS showcase/animations.md",
+                "file": "CSS/CSS showcase/backgrounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS showcase/animations.md",
+                "file": "CSS/CSS showcase/backgrounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS showcase/animations.md"
+                "file": "CSS/CSS showcase/backgrounds.md"
               }
             }
           },
@@ -299,8 +299,8 @@
   },
   "active": "3960a56acece84d6",
   "lastOpenFiles": [
-    "CSS/CSS showcase/backgrounds.md",
     "CSS/CSS showcase/animations.md",
+    "CSS/CSS showcase/backgrounds.md",
     "CSS/CSS showcase/README.md",
     "CSS/main properties.md",
     "CSS/flexbox.md",

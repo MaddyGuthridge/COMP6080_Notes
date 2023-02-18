@@ -32,6 +32,20 @@ Create a gradient background
 ### `radial-gradient()`
 Create a gradient from a point. Usage similar to above.
 
+### `conic-gradient()`
+Y'know the circus bursty thing? This is it.
+
+### Pixel patterns
+```css
+.pixely {
+	background:
+		/* specify multiple areas to apply small patches of "gradient" to */
+		/* position of pixel, then size of pixel */
+		30px 30px / 10px 10px no-repeat linear-gradient(0deg, pink, pink),
+		60px 70px / 10px 10px no-repeat linear-gradient(0deg, purple, purple)
+}
+```
+
 ### Repeating gradients
 You can use a `repeating-` prefix to get a repeating variation of the above types. Space out the distances in `px` instead of `%`.
 ```css
