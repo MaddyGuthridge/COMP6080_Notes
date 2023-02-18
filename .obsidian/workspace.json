@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "101367d97540087a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS showcase/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e43a14e1d12e963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS showcase/backgrounds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b22f5baaf227d7b9",
             "type": "leaf",
             "state": {
@@ -124,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/main properties.md",
+                "file": "CSS/CSS showcase/backgrounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/main properties.md",
+                "file": "CSS/CSS showcase/backgrounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,15 +254,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/main properties.md"
+                "file": "CSS/CSS showcase/backgrounds.md"
               }
             }
+          },
+          {
+            "id": "5f01bce9b83eca47",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -252,17 +285,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c30991789d9ff59c",
+  "active": "4e43a14e1d12e963",
   "lastOpenFiles": [
-    "CSS/flexbox.md",
+    "CSS/CSS showcase/README.md",
     "CSS/main properties.md",
+    "CSS/flexbox.md",
     "CSS/properties.md",
     "CSS/position.md",
     "CSS/float.md",
     "CSS/inclusion.md",
     "CSS/CSS.md",
     "HTML/span.md",
-    "HTML/block elements.md",
-    "HTML/box model.md"
+    "HTML/block elements.md"
   ]
 }
