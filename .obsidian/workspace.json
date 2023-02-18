@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/flexbox.md",
+                "file": "CSS/main properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/flexbox.md",
+                "file": "CSS/main properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/flexbox.md"
+                "file": "CSS/main properties.md"
               }
             }
           }
@@ -252,8 +252,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b22f5baaf227d7b9",
+  "active": "c30991789d9ff59c",
   "lastOpenFiles": [
+    "CSS/flexbox.md",
     "CSS/main properties.md",
     "CSS/properties.md",
     "CSS/position.md",
@@ -262,7 +263,6 @@
     "CSS/CSS.md",
     "HTML/span.md",
     "HTML/block elements.md",
-    "HTML/box model.md",
-    "HTML/div.md"
+    "HTML/box model.md"
   ]
 }

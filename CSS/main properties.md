@@ -22,4 +22,4 @@ Changes the visibility of elements
 - `none`: no space for element is taken, useful for JavaScript
 
 ### `z-index`
-"3D position" of the element - allows for placing elements on top of others.
+"3D position" of the element - allows for placing elements on top of others. Avoid where possible, but can be useful.
