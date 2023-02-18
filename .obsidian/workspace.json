@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/span.md",
+                "file": "CSS/div properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "976a0505b7f82612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/float.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c30991789d9ff59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/position.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/span.md",
+                "file": "CSS/position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/span.md",
+                "file": "CSS/position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/span.md"
+                "file": "CSS/position.md"
               }
             }
           }
@@ -216,17 +240,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd1a5977bb0ebd8b",
+  "active": "c30991789d9ff59c",
   "lastOpenFiles": [
-    "HTML/box model.md",
-    "CSS/properties.md",
-    "HTML/span.md",
-    "HTML/div.md",
-    "HTML/block element.md",
+    "CSS/float.md",
+    "CSS/position.md",
     "CSS/div properties.md",
-    "CSS/color.md",
+    "CSS/properties.md",
     "CSS/inclusion.md",
-    "CSS/text properties.md",
-    "CSS/CSS.md"
+    "CSS/CSS.md",
+    "HTML/span.md",
+    "HTML/block elements.md",
+    "HTML/box model.md",
+    "HTML/div.md"
   ]
 }

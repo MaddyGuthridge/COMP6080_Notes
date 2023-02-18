@@ -14,3 +14,9 @@ Apply a background image to the element
 We need to specify the `background-size` or it might be too big.
 
 This can also be done using various elements in the `background` property.
+
+### `visibility`
+
+Changes the visibility of elements
+- `hidden`: space for element is taken, but no content is rendered
+- `none`: no space for element is taken, useful for JavaScript
