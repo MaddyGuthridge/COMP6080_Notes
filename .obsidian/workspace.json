@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS showcase/README.md",
+                "file": "CSS/main properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS showcase/README.md",
+                "file": "CSS/main properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS showcase/README.md",
+                "file": "CSS/main properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS showcase/README.md"
+                "file": "CSS/main properties.md"
               }
             }
           },
@@ -335,15 +335,15 @@
   },
   "active": "84c035610ed8ab87",
   "lastOpenFiles": [
-    "CSS/font.md",
-    "CSS/text properties.md",
-    "CSS/CSS showcase/filters.md",
-    "CSS/CSS showcase/masking.md",
-    "CSS/CSS showcase/backgrounds.md",
-    "CSS/CSS showcase/animations.md",
-    "README.md",
-    "CSS/CSS showcase/README.md",
+    "CSS/properties.md",
+    "CSS/position.md",
     "CSS/main properties.md",
-    "CSS/flexbox.md"
+    "CSS/inclusion.md",
+    "CSS/float.md",
+    "CSS/font.md",
+    "CSS/CSS showcase/masking.md",
+    "CSS/CSS.md",
+    "HTML/style.md",
+    "HTML/div.md"
   ]
 }
