@@ -10,7 +10,7 @@ Offset by some amount from its location within the parent. Can add properties to
 - `right`
 - `bottom`
 
-You can often reproduce this using margins too, so it's not that common.C
+You can often reproduce this using margins too, so it's not that common.
 
 ### `absolute`
 Offset by some amount from the borders of its parent. Can use same properties as above to reposition.
