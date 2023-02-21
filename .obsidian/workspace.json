@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS showcase/backgrounds.md",
+                "file": "CSS/CSS showcase/masking.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS showcase/backgrounds.md",
+                "file": "CSS/CSS showcase/masking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS showcase/backgrounds.md",
+                "file": "CSS/CSS showcase/masking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS showcase/backgrounds.md"
+                "file": "CSS/CSS showcase/masking.md"
               }
             }
           },
@@ -335,11 +335,11 @@
   },
   "active": "84c035610ed8ab87",
   "lastOpenFiles": [
+    "CSS/CSS showcase/backgrounds.md",
     "CSS/inclusion.md",
     "CSS/flexbox.md",
     "CSS/position.md",
     "CSS/CSS showcase/filters.md",
-    "CSS/CSS showcase/backgrounds.md",
     "CSS/main properties.md",
     "CSS/properties.md",
     "CSS/float.md",
