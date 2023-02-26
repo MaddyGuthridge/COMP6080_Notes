@@ -203,12 +203,16 @@
             "id": "e4679c7dc7740406",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTML/div.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -274,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/css grid.md",
+                "file": "HTML/div.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/css grid.md",
+                "file": "HTML/div.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/css grid.md"
+                "file": "HTML/div.md"
               }
             }
           },
@@ -345,10 +349,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eebe7ad0830c6709",
+  "active": "e4679c7dc7740406",
   "lastOpenFiles": [
-    "CSS/flexbox.md",
     "CSS/css grid.md",
+    "CSS/flexbox.md",
     "CSS/CSS showcase/masking.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/inclusion.md",
