@@ -55,7 +55,7 @@ You can also specify areas as follows
 
 /* Now create classes for each template */
 .header {
-  /* Items*
+  /* Items with this class will be placed in the right place automatically */
   grid-area: header;
 }
 .footer {
@@ -68,3 +68,21 @@ You can also specify areas as follows
   grid-area: main;
 }
 ```
+
+Content can be placed correctly using the classes.
+
+```html
+<body>
+  <div id="container">
+    <!-- Content gets placed in the correct spot -->
+    <div class="header">My header</div>
+    <div class="footer">My footer</div>
+    <div class="main">My body</div>
+    <div class="sidebar">My sidebar</div>
+	</div>
+</body>
+```
+
+## Spacing
+
+Use `row-gap` and `column-gap` properties. For overall use the `gap` property.
