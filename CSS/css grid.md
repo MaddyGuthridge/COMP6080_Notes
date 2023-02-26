@@ -1,5 +1,7 @@
 Essentially a much more stylable table element.
 
+Compare with: [[flexbox]]
+
 ## What to use
 - Table when representing a literal table
 - CSS Grid when representing anything else in a table

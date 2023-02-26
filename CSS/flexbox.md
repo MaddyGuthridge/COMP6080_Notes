@@ -2,6 +2,8 @@ Powerful tool for having things automagically resize and regroup.
 
 See: [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+Compare with: [[css grid]]
+
 Use properties
 ```css
 .container {
