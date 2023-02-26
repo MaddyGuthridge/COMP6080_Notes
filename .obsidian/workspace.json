@@ -121,7 +121,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS showcase/masking.md",
+                "file": "CSS/flexbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eebe7ad0830c6709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/css grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS showcase/masking.md",
+                "file": "CSS/css grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS showcase/masking.md",
+                "file": "CSS/css grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS showcase/masking.md"
+                "file": "CSS/css grid.md"
               }
             }
           },
@@ -333,17 +345,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84c035610ed8ab87",
+  "active": "eebe7ad0830c6709",
   "lastOpenFiles": [
+    "CSS/flexbox.md",
+    "CSS/css grid.md",
+    "CSS/CSS showcase/masking.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/inclusion.md",
-    "CSS/flexbox.md",
     "CSS/position.md",
     "CSS/CSS showcase/filters.md",
     "CSS/main properties.md",
     "CSS/properties.md",
     "CSS/float.md",
-    "CSS/font.md",
-    "CSS/CSS showcase/masking.md"
+    "CSS/font.md"
   ]
 }
