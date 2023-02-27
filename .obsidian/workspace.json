@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a616184d140dd042",
+        "id": "f4b62277075a9d2f",
         "type": "tabs",
         "children": [
           {
-            "id": "96a8eb56ac4292ae",
+            "id": "3b8929b63c7f2123",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS/media queries.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSS/media queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSS/media queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSS/media queries.md"
+              }
             }
           },
           {
@@ -148,8 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96a8eb56ac4292ae",
+  "active": "3b8929b63c7f2123",
   "lastOpenFiles": [
+    "Other stuff/Mobile and Desktop.md",
+    "Other stuff/Image encoding.md",
+    "CSS/font.md",
+    "CSS/media queries.md",
     "CSS/inclusion.md",
     "HTML/div.md",
     "CSS/css grid.md",
@@ -160,7 +172,6 @@
     "CSS/CSS showcase/filters.md",
     "CSS/main properties.md",
     "CSS/properties.md",
-    "CSS/float.md",
-    "CSS/font.md"
+    "CSS/float.md"
   ]
 }
