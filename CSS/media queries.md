@@ -1,6 +1,6 @@
 Allows you to do "if statement" logic to selectively apply styles when conditions are met.
 
-Often used to ensure that sites work well for both [[Mobile and Desktop]].
+Often used to ensure that sites work well for both [[mobile and desktop]].
 
 ```css
 @media (min-width: 600px) {

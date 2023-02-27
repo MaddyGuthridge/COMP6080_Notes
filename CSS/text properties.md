@@ -15,12 +15,10 @@ Weight of [[font]]
 - etc
 
 ### `font-family`
-Family of font
+Family of font (eg Wingdings)
 
 ### `font-size`
-- Widths of M's - `1em` = standard font size
-- Percent - `100%` = standard font size
-- Number of pixels (eg `12px`)
+See [[units]]
 
 ### `text-decoration`
 Things like `underline`

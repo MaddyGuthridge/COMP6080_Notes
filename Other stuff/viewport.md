@@ -1,0 +1,1 @@
+The area that the user can see.
