@@ -1,5 +1,7 @@
 Allows you to do "if statement" logic to selectively apply styles when conditions are met.
 
+Often used to ensure that sites work well for both [[Mobile and Desktop]].
+
 ```css
 @media (min-width: 600px) {
   .article: {
@@ -46,4 +48,31 @@ Screen width - 500px and narrower probably indicates a phone
 Primary input can hover (eg mouse/trackpad)
 ```css
 @media (hover: hover) { ... }
+```
+
+Prefers dark mode
+```css
+@media (prefers-color-scheme: dark) { ... }
+```
+
+## Combinations
+
+You can combine conditions using logical operators.
+
+Note that `not` inverts the entire query, not just the following expression.
+```css
+@media not screen
+  and (min-width: 320px)
+  and (orientation: portrait) {
+    ...
+  }
+```
+
+You can use commas like `or`
+
+Applies to screen and print views
+```css
+@media screen, print {
+  ...
+}
 ```
