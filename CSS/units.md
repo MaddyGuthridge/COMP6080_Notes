@@ -1,5 +1,5 @@
 ## `px`
-Pixels (CSS pixels, not physical pixels on the device)
+Pixels (CSS pixels, not physical pixels on the device, provided you've used the right [[meta]] tags)
 
 ## `em`
 Width of a capital M - used for font sizes. (see [[text properties]])
