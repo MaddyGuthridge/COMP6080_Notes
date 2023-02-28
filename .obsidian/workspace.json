@@ -4,49 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "487ef13623d434d8",
+        "id": "79c8f9210f2c3ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "b808a6c3264e57cb",
+            "id": "7e26b2e844f16577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/units.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "629a9316b0f9212c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/viewport.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1b79cb36a110af2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b0884f5f2cbb670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/text properties.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS/units.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,12 +148,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b808a6c3264e57cb",
+  "active": "7e26b2e844f16577",
   "lastOpenFiles": [
-    "Other stuff/mobile and desktop.md",
+    "CSS/text properties.md",
     "Other stuff/viewport.md",
     "CSS/units.md",
-    "CSS/text properties.md",
+    "Other stuff/mobile and desktop.md",
     "HTML/meta.md",
     "HTML/meta tags.md",
     "HTML/head.md",
