@@ -25,5 +25,6 @@
 - `<noscript>` content appears if JavaScript is disabled
 - `<embed>` embed content from another page (used for things like YouTube videos)
 - `<iframe>` embed an entire webpage within your page
+- `<form>` add a [[form]] to the webpage
 
 See also: [[head]]

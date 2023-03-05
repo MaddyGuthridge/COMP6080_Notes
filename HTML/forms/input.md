@@ -6,6 +6,9 @@ Text box
 let textContents = input.value;
 ```
 
+## `date`
+Date picker
+
 ## `password`
 Text box for passwords, contents are hidden.
 
@@ -15,7 +18,7 @@ You can tick multiple of them
 let chosen = input.checked;
 ```
 
-## `radio`
+## `radio` button
 You can select one of them
 ```js
 let chosen = input.checked;

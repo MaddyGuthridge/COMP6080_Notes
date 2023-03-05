@@ -22,4 +22,4 @@ ele = form.someElement;
 ## Inner tags
 
 - [[input]] - used for most inputs, but apparently not all of them because there is no such thing as consistency
-- [[select]]
+- [[select]] - used for drop-down boxes
