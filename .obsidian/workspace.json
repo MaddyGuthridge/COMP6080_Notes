@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d232e72f2f6799fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/localstorage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/forms/input.md",
+                "file": "js/localstorage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/forms/input.md",
+                "file": "js/localstorage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/forms/input.md"
+                "file": "js/localstorage.md"
               }
             }
           },
@@ -177,11 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "754c609ac57c0653",
+  "active": "d232e72f2f6799fe",
   "lastOpenFiles": [
+    "HTML/forms/input.md",
+    "js/localstorage.md",
+    "js",
     "HTML/body.md",
     "HTML/forms/select.md",
-    "HTML/forms/input.md",
     "HTML/forms/form.md",
     "HTML/forms",
     "HTML/div.md",
@@ -204,7 +218,6 @@
     "CSS/CSS showcase/masking.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/position.md",
-    "CSS/CSS showcase/filters.md",
-    "CSS/main properties.md"
+    "CSS/CSS showcase/filters.md"
   ]
 }
