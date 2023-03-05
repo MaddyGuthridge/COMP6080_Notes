@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "84f6aacab0a971a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "754c609ac57c0653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML/elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/elements.md"
+              }
             }
           },
           {
@@ -148,8 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e26b2e844f16577",
+  "active": "bb37648729f379b7",
   "lastOpenFiles": [
+    "forms",
+    "HTML/forms.md",
+    "HTML/elements.md",
     "HTML/div.md",
     "HTML/body.md",
     "CSS/text properties.md",
@@ -172,7 +204,6 @@
     "CSS/CSS showcase/backgrounds.md",
     "CSS/position.md",
     "CSS/CSS showcase/filters.md",
-    "CSS/main properties.md",
-    "CSS/float.md"
+    "CSS/main properties.md"
   ]
 }
