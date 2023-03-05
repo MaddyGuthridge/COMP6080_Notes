@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/forms.md",
+                "file": "HTML/forms/input.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/elements.md",
+                "file": "HTML/forms/select.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/elements.md",
+                "file": "HTML/forms/select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/elements.md",
+                "file": "HTML/forms/select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/elements.md"
+                "file": "HTML/forms/select.md"
               }
             }
           },
@@ -177,11 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb37648729f379b7",
+  "active": "754c609ac57c0653",
   "lastOpenFiles": [
-    "forms",
-    "HTML/forms.md",
-    "HTML/elements.md",
+    "HTML/forms/form.md",
+    "HTML/forms/select.md",
+    "HTML/forms/input.md",
+    "HTML/forms",
     "HTML/div.md",
     "HTML/body.md",
     "CSS/text properties.md",
