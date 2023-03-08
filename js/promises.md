@@ -24,14 +24,17 @@ iPromise
 ```js
 function makeAPromise(arg) {
   // This function runs asynchronously and can
-  // resolve or reject
+  // resolve or reject the promise
   function promiseHandler(resolve, reject) {
     if (arg === 42) {
+      // Resolve it by calling the resolve function
       resolve("Ah, the answer!");
     } else {
+      // Or reject it with the reject function
       reject("Alas, it is not the answer");
     }
   }
-  return Promise(promiseHandler);
+  // We just need to create our promise using the Promise constructor
+  return new Promise(promiseHandler);
 }
 ```
