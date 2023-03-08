@@ -14,9 +14,11 @@ ipromise
     console.log("Got the data!", data);
 })
   .catch(err => {
-    // Called if the promise is broken (ie an error happened)
+    // Called if the promise is rejected (ie an error happened)
     console.log("Got an error!", err);
 });
+// Note that it we `.then` on multiple promises they could happen in any
+// order
 ```
 
 ## Creating promises
@@ -42,5 +44,29 @@ function makeAPromise(arg) {
 ## Chaining promises
 
 ```js
-ipromise
+// We wait for the result of the first
+first_promise.then(data => {
+  console.log("First");
+  // And it gets us to wait for the result of the second
+  return second_promise;
+}).then(data => {
+  console.log("Second");
+})
+```
+
+## Other neat things with promises
+
+```js
+// A promise that resolves if all the given promises have resolved
+// If any promises reject, then it will reject
+Promise.all([...promises]);
+// A promise that resolves when all the promises have settled, 
+// regardless of whether they were successful
+Promise.allSettled([...promises]);
+// A promise that resolves if at least one promise resolves successfully,
+// but which still waits for all the promises to settle
+Promise.any([...promises]);
+// Like Promise.any, but it resolves as soon as one of the promises given
+// resolve
+Promise.race([...promises]);
 ```
