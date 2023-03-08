@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/event loop.md",
+                "file": "js/promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/event loop.md",
+                "file": "js/promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/event loop.md"
+                "file": "js/promises.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93112059f094d80c",
+  "active": "958d9013d78def84",
   "lastOpenFiles": [
-    "js/promises.md",
     "js/event loop.md",
+    "js/promises.md",
     "js/localstorage.md",
     "HTML/forms/input.md",
     "HTML/forms/select.md",

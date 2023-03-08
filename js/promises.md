@@ -3,12 +3,12 @@ Rather than getting yourself into "callback hell", you can use promises to chain
 In essence, a function can return a promise, which you can then wait for as follows:
 
 ```js
-const iPromise = loadSomething();
+const ipromise = loadSomething();
 
 // Do any other things we need to do
 
 // Once it's done, we can wait for the promise to resolve
-iPromise
+ipromise
   .then(data => {
     // Called if the promise resolves successfully
     console.log("Got the data!", data);
@@ -37,4 +37,10 @@ function makeAPromise(arg) {
   // We just need to create our promise using the Promise constructor
   return new Promise(promiseHandler);
 }
+```
+
+## Chaining promises
+
+```js
+ipromise
 ```

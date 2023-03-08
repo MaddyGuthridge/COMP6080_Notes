@@ -35,5 +35,5 @@ Set a timeout
 ```js
 setTimeout(() => {
   // Do stuff a second later
-})
+}, 1000)
 ```
