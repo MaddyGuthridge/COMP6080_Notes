@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "afd99abb922ff91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/callback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a897cb04e2628fa8",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/async-await.md",
+                "file": "js/callback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/async-await.md",
+                "file": "js/callback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/async-await.md"
+                "file": "js/callback.md"
               }
             }
           },
@@ -193,11 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a897cb04e2628fa8",
+  "active": "afd99abb922ff91a",
   "lastOpenFiles": [
     "js/promises.md",
-    "js/async-await.md",
+    "js/callback.md",
     "js/event loop.md",
+    "js/async-await.md",
     "js/localstorage.md",
     "HTML/forms/input.md",
     "HTML/forms/select.md",
@@ -221,7 +234,6 @@
     "CSS/font.md",
     "CSS/inclusion.md",
     "CSS/css grid.md",
-    "CSS/flexbox.md",
-    "CSS/CSS showcase/masking.md"
+    "CSS/flexbox.md"
   ]
 }
