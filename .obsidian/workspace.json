@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "958d9013d78def84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/promises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/event loop.md",
+                "file": "js/promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/event loop.md",
+                "file": "js/promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/event loop.md"
+                "file": "js/promises.md"
               }
             }
           },
@@ -169,10 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93112059f094d80c",
+  "active": "958d9013d78def84",
   "lastOpenFiles": [
-    "js/localstorage.md",
     "js/event loop.md",
+    "js/promises.md",
+    "js/localstorage.md",
     "HTML/forms/input.md",
     "HTML/forms/select.md",
     "js",
@@ -197,7 +210,6 @@
     "CSS/css grid.md",
     "CSS/flexbox.md",
     "CSS/CSS showcase/masking.md",
-    "CSS/CSS showcase/backgrounds.md",
-    "CSS/position.md"
+    "CSS/CSS showcase/backgrounds.md"
   ]
 }

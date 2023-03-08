@@ -34,6 +34,6 @@ someElement.addEventListener('event name', (ev) => {
 Set a timeout
 ```js
 setTimeout(1000, () => {
-
+  // Do stuff a second later
 })
 ```
