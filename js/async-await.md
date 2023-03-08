@@ -21,4 +21,4 @@ const doThing = async () => {
 
 ## Cons
 - Still need to understand promises
-- Is blocking
+- Is blocking, so not good for concurrency
