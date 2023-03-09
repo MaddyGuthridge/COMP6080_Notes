@@ -24,6 +24,8 @@ Events can be created in many ways
 
 ## Creating event listeners
 
+Provide a [[callback]] function to be called on the event.
+
 Listen for events on an HTML element
 ```js
 someElement.addEventListener('event name', (ev) => {

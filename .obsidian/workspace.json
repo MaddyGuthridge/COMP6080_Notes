@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/callback.md",
+                "file": "js/promises.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/callback.md",
+                "file": "js/promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/callback.md",
+                "file": "js/promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/callback.md"
+                "file": "js/promises.md"
               }
             }
           },
@@ -207,11 +207,11 @@
   },
   "active": "afd99abb922ff91a",
   "lastOpenFiles": [
-    "js/promises.md",
-    "js/callback.md",
-    "js/event loop.md",
-    "js/async-await.md",
     "js/localstorage.md",
+    "js/event loop.md",
+    "js/callback.md",
+    "js/async-await.md",
+    "js/promises.md",
     "HTML/forms/input.md",
     "HTML/forms/select.md",
     "js",

@@ -1,4 +1,4 @@
-Rather than getting yourself into "callback hell", you can use promises to chain asynchronous code together.
+Rather than getting yourself into "[[callback]] hell", you can use promises to chain asynchronous code together.
 
 In essence, a function can return a promise, which you can then wait for as follows:
 
