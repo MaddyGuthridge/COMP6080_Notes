@@ -10,7 +10,7 @@ fetch(url)
 		// Status code 200
 		if (res.ok) {
 			// Get the JSON
-			// This gives a promise
+			// This gives a promise which we can handle below
 			return res.json();
 		} else {
 			// Reject the promise so it can be caught below
@@ -18,9 +18,16 @@ fetch(url)
 		}
 	})
 	.then(json => {
+		// We received the parsed JSON from the .then above,
+		// and can now handle it
 		console.log(json);
 	})
 	.catch(e => {
 		console.error(`Error: ${e}`)
 	});
 ```
+
+## Limitations
+- XHR works on very old browsers, fetch does not
+- XHR gives download progress - to do it in a modern way, use the streams API
+- XHR can be easily cancelled
