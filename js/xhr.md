@@ -14,7 +14,9 @@ xhr.open("GET", url);
 xhr.onload = () => {
 	if (xhr.status === 200) {
 		const meme = JSON.parse(xhr.response);
-		console.log(meme)
+		console.log(meme);
+	} else {
+		console.log(`Error with request: ${xhr.status}: ${xhr.response}`)
 	}
 }
 ```
