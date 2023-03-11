@@ -8,72 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28a70dd5a4acd7ac",
+            "id": "02b3f2dc80dc9f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/localstorage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93112059f094d80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js/event loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "958d9013d78def84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js/promises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afd99abb922ff91a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js/promises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbdbe55b9d7cb8ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js/async-await.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f27684b01f32a040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js/fetch.md",
+                "file": "CSS/specificity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/xhr.md",
+                "file": "CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/async-await.md",
+                "file": "CSS/selectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/fetch.md",
+                "file": "CSS/selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/fetch.md",
+                "file": "CSS/selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/fetch.md"
+                "file": "CSS/selectors.md"
               }
             }
           },
@@ -241,11 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f27684b01f32a040",
+  "active": "a897cb04e2628fa8",
   "lastOpenFiles": [
-    "js/xhr.md",
-    "js/fetch.md",
     "js/async-await.md",
+    "CSS/CSS.md",
+    "CSS/specificity.md",
+    "js/xhr.md",
+    "CSS/selectors.md",
+    "js/fetch.md",
     "js/promises.md",
     "js/ajax.md",
     "js/localstorage.md",
@@ -265,11 +208,8 @@
     "HTML/meta.md",
     "HTML/meta tags.md",
     "HTML/head.md",
-    "CSS/CSS.md",
     "CSS/media queries.md",
     "CSS/properties.md",
-    "CSS/selectors.md",
-    "Other stuff/Image encoding.md",
-    "CSS/font.md"
+    "Other stuff/Image encoding.md"
   ]
 }

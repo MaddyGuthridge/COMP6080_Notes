@@ -47,8 +47,20 @@ Preceding with a `#` hash will make it match an `id` so it can be applied to one
 </div>
 ```
 
+## Tag name
+Using the name of a tag will style all instances of that tag
+```html
+<style>
+  a {
+    color: purple;
+  }
+</style>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click it, I dare you">You've definitely clicked this before, see the link is purple!</a>
+```
+
 ## Universal selector
-Using a `*` (universal selector) will apply the style to everything
+Using a `*` (universal selector) will apply the style to everything.
 
 ```html
 <style>
@@ -62,19 +74,11 @@ Using a `*` (universal selector) will apply the style to everything
 </p>
 ```
 
-## Tag name
-Using the name of a tag will style all instances of that tag
-```html
-<style>
-  a {
-    color: purple;
-  }
-</style>
+### WARNING!!!
+Using the universal selector is considered very bad style, as it will apply the properties to every element individually, which will break the cascading nature of CSS. 
+Instead, you should apply the properties to the [[body]] tag so that they have a low [[specificity]], allowing them to be overridden if needed.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click it, I dare you">You've definitely clicked this before, see the link is purple!</a>
-```
-
-## Combinators
+## Combinations
 You can combine the above selectors.
 
 Consider the following HTML
