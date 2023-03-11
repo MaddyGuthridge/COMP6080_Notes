@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/xhr.md",
+                "file": "js/fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/xhr.md",
+                "file": "js/fetch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/xhr.md"
+                "file": "js/fetch.md"
               }
             }
           },
@@ -241,10 +241,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2f914a42fee2b2b",
+  "active": "f27684b01f32a040",
   "lastOpenFiles": [
-    "js/fetch.md",
     "js/xhr.md",
+    "js/fetch.md",
     "js/async-await.md",
     "js/promises.md",
     "js/ajax.md",

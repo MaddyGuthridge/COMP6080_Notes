@@ -12,11 +12,16 @@ const xhr = new XMLHttpRequest();
 xhr.open("GET", url);
 
 xhr.onload = () => {
+	// Check that the request succeeded
 	if (xhr.status === 200) {
 		const meme = JSON.parse(xhr.response);
 		console.log(meme);
 	} else {
-		console.log(`Error with request: ${xhr.status}: ${xhr.response}`)
+		console.error(`Error with request: ${xhr.status}: ${xhr.response}`);
 	}
+}
+
+xhr.onerror = () => {
+	console.error("Error sending request");
 }
 ```
