@@ -9,8 +9,18 @@ fetch(url)
 	.then(res => {
 		// Status code 200
 		if (res.ok) {
-			const meme = JSON.parse(res.);
-			console.log(meme);
+			// Get the JSON
+			// This gives a promise
+			return res.json();
+		} else {
+			// Reject the promise so it can be caught below
+			throw new Error(`${res.status}`);
 		}
+	})
+	.then(json => {
+		console.log(json);
+	})
+	.catch(e => {
+		console.error(`Error: ${e}`)
 	});
 ```
