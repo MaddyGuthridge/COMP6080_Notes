@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/flexbox.md",
+                "file": "HTML/body.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/flexbox.md",
+                "file": "HTML/body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/flexbox.md",
+                "file": "HTML/body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/flexbox.md"
+                "file": "HTML/body.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "a897cb04e2628fa8",
   "lastOpenFiles": [
+    "CSS/flexbox.md",
     "CSS/selectors.md",
     "js/async-await.md",
     "CSS/CSS.md",
@@ -184,7 +185,6 @@
     "HTML/meta tags.md",
     "HTML/head.md",
     "CSS/media queries.md",
-    "CSS/properties.md",
-    "Other stuff/Image encoding.md"
+    "CSS/properties.md"
   ]
 }
