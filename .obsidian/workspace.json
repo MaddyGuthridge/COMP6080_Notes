@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/body.md",
+                "file": "CSS/CSS showcase/masking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/body.md",
+                "file": "CSS/CSS showcase/masking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/body.md",
+                "file": "CSS/CSS showcase/masking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/body.md"
+                "file": "CSS/CSS showcase/masking.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "a897cb04e2628fa8",
   "lastOpenFiles": [
+    "CSS/CSS showcase/backgrounds.md",
+    "HTML/body.md",
     "CSS/flexbox.md",
     "CSS/selectors.md",
     "js/async-await.md",
@@ -173,7 +175,6 @@
     "HTML/forms/input.md",
     "HTML/forms/select.md",
     "js",
-    "HTML/body.md",
     "HTML/forms/form.md",
     "HTML/forms",
     "HTML/div.md",
@@ -184,7 +185,6 @@
     "HTML/meta.md",
     "HTML/meta tags.md",
     "HTML/head.md",
-    "CSS/media queries.md",
-    "CSS/properties.md"
+    "CSS/media queries.md"
   ]
 }
