@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/ui/affordances.md",
+                "file": "Other stuff/ui/ui.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff/ui/affordances.md",
+                "file": "Other stuff/ui/ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff/ui/affordances.md",
+                "file": "Other stuff/ui/ui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff/ui/affordances.md"
+                "file": "Other stuff/ui/ui.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "8e9bab812d336e2c",
   "lastOpenFiles": [
-    "Other stuff/ui/visual hierarchy.md",
     "Other stuff/ui/affordances.md",
+    "Other stuff/ui/visual hierarchy.md",
     "Other stuff/ui/less scary.md",
     "Other stuff/ui/ui.md",
     "Other stuff/ui",
