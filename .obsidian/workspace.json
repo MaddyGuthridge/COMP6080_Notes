@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7198f434ee3f9680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/ui/ui.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca4a36dbacbd6870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/ui/less scary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS showcase/masking.md",
+                "file": "Other stuff/ui/less scary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS showcase/masking.md",
+                "file": "Other stuff/ui/less scary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS showcase/masking.md"
+                "file": "Other stuff/ui/less scary.md"
               }
             }
           },
@@ -156,8 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a897cb04e2628fa8",
+  "active": "ca4a36dbacbd6870",
   "lastOpenFiles": [
+    "Other stuff/ui/ui.md",
+    "Other stuff/ui/less scary.md",
+    "Other stuff/ui",
+    "CSS/CSS showcase/masking.md",
     "CSS/CSS showcase/backgrounds.md",
     "HTML/body.md",
     "CSS/flexbox.md",
@@ -182,9 +211,6 @@
     "Other stuff/viewport.md",
     "CSS/units.md",
     "Other stuff/mobile and desktop.md",
-    "HTML/meta.md",
-    "HTML/meta tags.md",
-    "HTML/head.md",
-    "CSS/media queries.md"
+    "HTML/meta.md"
   ]
 }
