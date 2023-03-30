@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a26002822634bf57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/ui/visual hierarchy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9bab812d336e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/ui/affordances.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff/ui/less scary.md",
+                "file": "Other stuff/ui/affordances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff/ui/less scary.md",
+                "file": "Other stuff/ui/affordances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff/ui/less scary.md"
+                "file": "Other stuff/ui/affordances.md"
               }
             }
           },
@@ -181,10 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca4a36dbacbd6870",
+  "active": "8e9bab812d336e2c",
   "lastOpenFiles": [
-    "Other stuff/ui/ui.md",
+    "Other stuff/ui/visual hierarchy.md",
+    "Other stuff/ui/affordances.md",
     "Other stuff/ui/less scary.md",
+    "Other stuff/ui/ui.md",
     "Other stuff/ui",
     "CSS/CSS showcase/masking.md",
     "CSS/CSS showcase/backgrounds.md",
@@ -209,8 +235,6 @@
     "HTML/div.md",
     "CSS/text properties.md",
     "Other stuff/viewport.md",
-    "CSS/units.md",
-    "Other stuff/mobile and desktop.md",
-    "HTML/meta.md"
+    "CSS/units.md"
   ]
 }
