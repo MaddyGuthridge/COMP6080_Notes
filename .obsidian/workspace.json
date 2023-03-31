@@ -219,12 +219,13 @@
   },
   "active": "66fcd91b92c7181f",
   "lastOpenFiles": [
-    "Other stuff/viewport.md",
+    "React/JSX.md",
     "Other stuff/transpilation.md",
+    "js/callback.md",
+    "Other stuff/viewport.md",
     "React/React.md",
     "React/Declarative UI.md",
     "React/React CSS.md",
-    "React/JSX.md",
     "CSS/CSS showcase/masking.md",
     "React",
     "Other stuff/ui/visual hierarchy.md",
@@ -247,7 +248,6 @@
     "js/promises.md",
     "js/ajax.md",
     "js/localstorage.md",
-    "js/event loop.md",
     "js",
     "HTML/forms"
   ]
