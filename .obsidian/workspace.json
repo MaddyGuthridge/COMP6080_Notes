@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a69098ba9f8d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Declarative UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React.md",
+                "file": "React/Declarative UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React.md",
+                "file": "React/Declarative UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React.md"
+                "file": "React/Declarative UI.md"
               }
             }
           },
@@ -193,11 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "228539602085f939",
+  "active": "9a69098ba9f8d2c3",
   "lastOpenFiles": [
+    "React/React.md",
+    "React/Declarative UI.md",
     "React/React CSS.md",
     "React/JSX.md",
-    "React/React.md",
     "Other stuff/viewport.md",
     "CSS/CSS showcase/masking.md",
     "React",
@@ -223,7 +236,6 @@
     "js/localstorage.md",
     "js/event loop.md",
     "js/callback.md",
-    "HTML/forms/input.md",
     "js",
     "HTML/forms"
   ]
