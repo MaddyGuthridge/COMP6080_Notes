@@ -1,4 +1,4 @@
-For a webpage needs to be understandable, it needs to be created in a way so that it can be understood by anyone.
+For a web-page needs to be understandable, it needs to be created in a way so that it can be understood by anyone, regardless of medium.
 
 ## Defining the language
 

@@ -1,4 +1,4 @@
-ARIA (Accessible Rich Internet Applications) is a collection of additional attributes to supplement [[HTML]]. 
+ARIA (Accessible Rich Internet Applications) is a collection of additional attributes to supplement [[HTML]] that allow for improved [[accessibility]]. 
 
 Should be used "sparingly and thoughtfully" on top of existing HTML tags and roles.
 
