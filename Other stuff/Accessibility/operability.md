@@ -1,4 +1,4 @@
-Not everyone uses a mouse/touchscreen. Make sure your web app supports other forms of input, such as the keyboard.
+Not everyone uses a mouse/touchscreen. Make sure your web app supports other forms of input, such as the keyboard. For a website to be operable, it needs to be possible to do everything using any reasonable input method.
 
 ## Keyboard navigation
 - Arrow keys and space to jump down the page

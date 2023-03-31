@@ -17,3 +17,9 @@ Good alt text
 - Use contrasting colours
 	- `4.5:1` for text smaller than 18pt
 	- `3:1` for text at 18pt or larger
+
+## Don't cause seizures
+Don't add flashing content, especially flashing red content.
+
+## Keep things visible for as long as needed
+Don't needlessly dismiss things without giving sufficient time for users to read it.
