@@ -22,3 +22,6 @@ function App() {
 
 ## Customising React components
 React components can be customised using [[props]].
+
+## File layouts
+It is possible to declare multiple components per file, but this is stylistically yucky. Instead, just do one file per component. It's just much nicer that way.

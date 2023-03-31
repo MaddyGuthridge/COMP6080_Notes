@@ -14,7 +14,7 @@ function App() {
 		<>
 			<MyButton text="Button text" myWidth={100} />
 		</>
-	)
+	);
 }
 ```
 
@@ -29,5 +29,11 @@ function MyButton(props) {
 	);
 }
 
-function
+function App() {
+	return (
+		<>
+			<MyButton>Some text</MyButton>
+		</>
+	);
+}
 ```

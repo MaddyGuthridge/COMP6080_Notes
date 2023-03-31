@@ -1,0 +1,1 @@
+Document Object Model, used to access data on the webpage.
