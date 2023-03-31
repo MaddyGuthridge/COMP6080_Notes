@@ -54,3 +54,25 @@ Passable, but can break if you're using custom components:
 ```
 
 **Don't use placeholder text by itself** - it doesn't work with screen readers.
+
+### Field descriptions
+You can also associate longer content such as error messages with an input.
+```html
+<label for={someInput}>Name</label>
+<input
+	id={someInput}
+	aria-describedby={someDescription}
+/>
+<p id={someDescription} role="alert">
+	Some error message to do with the input field
+</p>
+```
+
+Notice the use of the [[role]] to show that the error message should be immediately announced to users.
+
+You can also use other properties to help out with field validation:
+- `required` - mark a field as required
+- `type="number" min={0}` - set the minimum value for a number input
+- `type="password" minLength={8}` - set the minimum length for a text input
+
+For other kinds of form mistakes, set `aria-invalid` to `{true}` and set `aria-describedby` to the ID of an error message.
