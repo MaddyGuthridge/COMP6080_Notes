@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Declarative UI.md",
+                "file": "Other stuff/viewport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66fcd91b92c7181f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/transpilation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Declarative UI.md",
+                "file": "Other stuff/transpilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Declarative UI.md",
+                "file": "Other stuff/transpilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Declarative UI.md"
+                "file": "Other stuff/transpilation.md"
               }
             }
           },
@@ -205,13 +217,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a69098ba9f8d2c3",
+  "active": "66fcd91b92c7181f",
   "lastOpenFiles": [
+    "Other stuff/viewport.md",
+    "Other stuff/transpilation.md",
     "React/React.md",
     "React/Declarative UI.md",
     "React/React CSS.md",
     "React/JSX.md",
-    "Other stuff/viewport.md",
     "CSS/CSS showcase/masking.md",
     "React",
     "Other stuff/ui/visual hierarchy.md",
@@ -235,7 +248,6 @@
     "js/ajax.md",
     "js/localstorage.md",
     "js/event loop.md",
-    "js/callback.md",
     "js",
     "HTML/forms"
   ]
