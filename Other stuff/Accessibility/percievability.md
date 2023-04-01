@@ -17,3 +17,4 @@ Good alt text
 - Use contrasting colours
 	- `4.5:1` for text smaller than 18pt
 	- `3:1` for text at 18pt or larger
+	- For text on images, consider darkening the image
