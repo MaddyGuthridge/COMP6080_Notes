@@ -26,4 +26,4 @@ Don't add flashing content, especially flashing red content.
 
 ## Keep things visible for as long as needed
 Don't needlessly dismiss things without giving sufficient time for users to read it.
->>>>>>> origin/main
+
