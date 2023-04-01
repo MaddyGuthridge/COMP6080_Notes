@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/Accessibility/operability.md",
+                "file": "HTML/forms/input.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +47,15 @@
             "id": "a5945113d08b0d4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/Accessibility/accessibility.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML/forms/input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/forms/input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/forms/input.md"
+              }
             }
           },
           {
@@ -185,15 +192,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5945113d08b0d4d",
+  "active": "bc9ef9ab640b35f9",
   "lastOpenFiles": [
+    "Other stuff/Accessibility/operability.md",
+    "Other stuff/Accessibility/accessibility.md",
+    "Other stuff/ui/ui.md",
     "Other stuff/Accessibility/understandability.md",
     "Other stuff/Accessibility/role.md",
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/percievability.md",
-    "Other stuff/Accessibility/operability.md",
     "Other stuff/Accessibility/ARIA.md",
-    "Other stuff/Accessibility/accessibility.md",
     "React/component.md",
     "React/useState.md",
     "React/declarative UI.md",
@@ -210,7 +218,6 @@
     "CSS/CSS showcase/masking.md",
     "React",
     "Other stuff/ui/visual hierarchy.md",
-    "Other stuff/ui/ui.md",
     "Other stuff/ui/less scary.md",
     "Other stuff/ui/affordances.md",
     "Other stuff/ui",

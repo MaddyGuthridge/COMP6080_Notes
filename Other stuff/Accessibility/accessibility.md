@@ -1,5 +1,7 @@
 Accessibility (aka "a11y", because there are 11 letters between the a and the y; software engineers are great at naming things).
 
+As a web developer, you always want to make your [[ui|UIs]] accessible.
+
 Determined by the [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/TR/WCAG20)
 
 ## Levels of accessibility
