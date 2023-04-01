@@ -17,9 +17,7 @@ Good alt text
 - Use contrasting colours
 	- `4.5:1` for text smaller than 18pt
 	- `3:1` for text at 18pt or larger
-<<<<<<< HEAD
 	- For text on images, consider darkening the image
-=======
 
 ## Don't cause seizures
 Don't add flashing content, especially flashing red content.
