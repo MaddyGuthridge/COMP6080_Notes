@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80c8c5a4e94395d2",
+        "id": "660ca9038eb92e50",
         "type": "tabs",
         "children": [
           {
-            "id": "bc9ef9ab640b35f9",
+            "id": "2b3ffbefcc27eb8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/forms/input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "768db165e752788d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/Accessibility/understandability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c962e6f6fdbfe77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/Accessibility/role.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5945113d08b0d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/Accessibility/accessibility.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/forms/input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/forms/input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML/forms/input.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,13 +148,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc9ef9ab640b35f9",
+  "active": "2b3ffbefcc27eb8e",
   "lastOpenFiles": [
-    "Other stuff/Accessibility/operability.md",
+    "CSS/selectors.md",
+    "CSS/inclusion.md",
+    "CSS/text properties.md",
+    "CSS/float.md",
     "Other stuff/Accessibility/accessibility.md",
-    "Other stuff/ui/ui.md",
-    "Other stuff/Accessibility/understandability.md",
     "Other stuff/Accessibility/role.md",
+    "Other stuff/Accessibility/understandability.md",
+    "HTML/forms/input.md",
+    "Other stuff/Accessibility/operability.md",
+    "Other stuff/ui/ui.md",
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/percievability.md",
     "Other stuff/Accessibility/ARIA.md",
@@ -215,14 +176,9 @@
     "js/callback.md",
     "Other stuff/viewport.md",
     "React/React CSS.md",
-    "CSS/CSS showcase/masking.md",
     "React",
-    "Other stuff/ui/visual hierarchy.md",
-    "Other stuff/ui/less scary.md",
-    "Other stuff/ui/affordances.md",
     "Other stuff/ui",
     "Other stuff/Accessibility",
-    "CSS/CSS showcase/backgrounds.md",
     "js",
     "HTML/forms"
   ]
