@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/linting.md",
+                "file": "js/promises.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/linting.md",
+                "file": "js/promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/linting.md",
+                "file": "js/promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/linting.md"
+                "file": "js/promises.md"
               }
             }
           },
@@ -191,8 +191,10 @@
   },
   "active": "0cda9f991221f26b",
   "lastOpenFiles": [
-    "js/DOM.md",
+    "js/localstorage.md",
+    "js/JavaScript.md",
     "js/linting.md",
+    "js/DOM.md",
     "React/React.md",
     "React/React CSS.md",
     "React/useEffect.md",
@@ -216,8 +218,6 @@
     "Other stuff/ui/ui.md",
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/ARIA.md",
-    "React/component.md",
-    "js/JavaScript.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
