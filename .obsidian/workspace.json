@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/useEffect.md",
+                "file": "js/DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cda9f991221f26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/linting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/useEffect.md",
+                "file": "js/linting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/useEffect.md",
+                "file": "js/linting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/useEffect.md"
+                "file": "js/linting.md"
               }
             }
           },
@@ -177,10 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b3a3cd544868256",
+  "active": "0cda9f991221f26b",
   "lastOpenFiles": [
-    "React/useState.md",
+    "js/DOM.md",
+    "js/linting.md",
+    "React/React.md",
+    "React/React CSS.md",
     "React/useEffect.md",
+    "React/useState.md",
     "Other stuff/Accessibility/understandability.md",
     "conflict-files-obsidian-git.md",
     "Other stuff/Accessibility/operability.md",
@@ -201,11 +217,7 @@
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/ARIA.md",
     "React/component.md",
-    "js/DOM.md",
     "js/JavaScript.md",
-    "React/React.md",
-    "React/props.md",
-    "js/ajax.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
