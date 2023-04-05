@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "660ca9038eb92e50",
+        "id": "8e709057e87d202a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3ffbefcc27eb8e",
+            "id": "f475916c59eb4dcb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Other stuff/Accessibility/percievability.md",
-                "staged": true
+                "file": "React/useState.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b3a3cd544868256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/useEffect.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/useEffect.md"
+              }
             }
           },
           {
@@ -145,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b3ffbefcc27eb8e",
+  "active": "7b3a3cd544868256",
   "lastOpenFiles": [
+    "React/useState.md",
+    "React/useEffect.md",
     "Other stuff/Accessibility/understandability.md",
     "conflict-files-obsidian-git.md",
     "Other stuff/Accessibility/operability.md",
@@ -180,13 +201,11 @@
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/ARIA.md",
     "React/component.md",
-    "React/useState.md",
     "js/DOM.md",
     "js/JavaScript.md",
     "React/React.md",
     "React/props.md",
     "js/ajax.md",
-    "React/JSX.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
