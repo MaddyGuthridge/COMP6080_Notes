@@ -1,6 +1,6 @@
 JSX (***J*avaScript *S*yntax e*X*tension**, or ***J*ava*S*cript *X*ML**, depending on who you ask) is a system for embedding [[HTML]] inside [[JavaScript]] code. It's used by [[React]] to create [[component|components]].
 
-It gets [[transpilation|transpiled]] to regular JS, usually with WebPack.
+It gets [[transpilation|transpiled]] to regular JS, usually with [webpack](https://webpack.js.org/).
 
 ### Comments inside JSX HTML
 
