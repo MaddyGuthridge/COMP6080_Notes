@@ -21,6 +21,36 @@ function App() {
 }
 ```
 
+### Nested routes
+```jsx
+import {
+	BrowserRouter,
+	Routes,
+	Route,
+} from 'react-router-dom';
+
+function App() {
+	return (
+		<>
+			<BrowserRouter>
+				<Routes>
+					<Route path="/" element={<Home />} />
+					{/* 
+					  * Note that the About element is rendered for both the sub routes
+					  * It must include an `<Outlet>` component in order to allow those 
+					  * sub-pages to render within the <Outlet> element
+					  */}
+					<Route path="/about" element={<About />}>
+						<Route path="me" element={<AboutMe />}>
+						<Route path="you" element={<AboutYou />}>
+					</Route>
+				</Routes>
+			</BrowserRouter>
+		</>
+	)
+}
+```
+
 ## Changing between routes
 
 To link to a different route
@@ -37,6 +67,19 @@ Note that our `LinkThing` [[component]] must be contained within the `BrowserRou
 ### Why not `<a>`
 
 Using an [[anchor]] tag would trigger a full reload.
+
+### As a function
+
+To change between routes using a function, you can use the `useNavigate` hook
+```jsx
+import { useNavigate } from 'react-router-dom';
+function MyComponent() {
+	const navigate = useNavigate();
+	return (
+		<button onClick={() => navigate("/about") }>About page</button>
+	);
+}
+```
 
 ## Wildcard elements
 
