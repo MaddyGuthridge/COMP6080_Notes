@@ -1,4 +1,4 @@
-Role properties are used to show the "role" that an element plays.
+Role properties are used to show the "role" that an [[HTML]] element plays.
 
 - `"alert"` - the user did something wrong, or something important happened
 - `"progressbar"` - loading states, eg file uploads

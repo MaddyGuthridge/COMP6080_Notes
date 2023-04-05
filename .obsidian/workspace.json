@@ -11,8 +11,11 @@
             "id": "2b3ffbefcc27eb8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Other stuff/Accessibility/percievability.md",
+                "staged": true
+              }
             }
           }
         ]
@@ -128,14 +131,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "22715706fb004b57",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,32 +160,33 @@
   },
   "active": "2b3ffbefcc27eb8e",
   "lastOpenFiles": [
+    "Other stuff/Accessibility/understandability.md",
+    "conflict-files-obsidian-git.md",
+    "Other stuff/Accessibility/operability.md",
+    "js/fetch.md",
+    "React/declarative UI.md",
+    "Other stuff/Accessibility/percievability.md",
+    "Untitled",
+    "HTML gimmick.md",
+    "README.md",
+    "Other stuff/Accessibility/role.md",
     "CSS/selectors.md",
     "CSS/inclusion.md",
     "CSS/text properties.md",
     "CSS/float.md",
     "Other stuff/Accessibility/accessibility.md",
-    "Other stuff/Accessibility/role.md",
-    "Other stuff/Accessibility/understandability.md",
     "HTML/forms/input.md",
-    "Other stuff/Accessibility/operability.md",
     "Other stuff/ui/ui.md",
     "Other stuff/Accessibility/robustness.md",
-    "Other stuff/Accessibility/percievability.md",
     "Other stuff/Accessibility/ARIA.md",
     "React/component.md",
     "React/useState.md",
-    "React/declarative UI.md",
     "js/DOM.md",
     "js/JavaScript.md",
     "React/React.md",
     "React/props.md",
     "js/ajax.md",
     "React/JSX.md",
-    "Other stuff/transpilation.md",
-    "js/callback.md",
-    "Other stuff/viewport.md",
-    "React/React CSS.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
