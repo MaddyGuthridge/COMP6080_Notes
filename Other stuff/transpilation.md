@@ -1,4 +1,4 @@
-Lots of code in web development is transpiled, meaning it is converted from one language to another. This is usually done to ensure compatibility with older browsers, or to allow for other features to be used (such as [[JSX]]).
+Lots of code in web development is transpiled, meaning it is converted from one language to another. This is usually done to ensure compatibility with older browsers, or to allow for other features to be used (such as [[JSX]]). The most common target for transpilation in web development is [[JavaScript]].
 
 ## Polyfills
 Tools like [Core-JS](https://github.com/zloirock/core-js) can be used to create "polyfills", which monkey-patch in any required functions to the JS standard library in order to support new features in old browsers.

@@ -1,0 +1,1 @@
+`useContext` is a [[React hook]] that allows you to share a global context across your entire app.

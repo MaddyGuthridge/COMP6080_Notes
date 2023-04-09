@@ -1,5 +1,5 @@
 - Asynchronous
-- Javascript
+- [[JavaScript]]
 - And
 - XML
 

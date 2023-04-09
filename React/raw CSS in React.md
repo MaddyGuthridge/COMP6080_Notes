@@ -14,4 +14,4 @@ function MyComponent() {
 }
 ```
 
-To fix this awfulness, you'll want to use a component library.
+To fix this awfulness, you'll want to use a [[component library]] and [[styled component|styled components]].
