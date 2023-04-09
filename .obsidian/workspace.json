@@ -23,38 +23,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/state management.md",
+                "file": "React/Redux/Redux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b70c9cf5b9f51ac",
+            "id": "eb2b8349c36a0813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux.md",
+                "file": "React/Redux/store.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "afe6008fe312f5cb",
+            "id": "d91859add37d2b26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/hooks/useState.md",
+                "file": "React/Redux/action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92843615158d8b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Redux/reducer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux.md",
+                "file": "React/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux.md",
+                "file": "React/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux.md"
+                "file": "React/Redux/Redux.md"
               }
             }
           },
@@ -199,10 +211,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b70c9cf5b9f51ac",
+  "active": "253b5c59dac3bbfe",
   "lastOpenFiles": [
+    "React/Redux/store.md",
+    "React/Redux/action.md",
+    "React/Redux/reducer.md",
+    "React/Redux/Redux.md",
+    "React/Redux",
+    "js/local storage.md",
     "React/state management.md",
-    "React/Redux.md",
     "React/styled component.md",
     "React/hooks/useState.md",
     "React/hooks/useEffect.md",
@@ -224,10 +241,6 @@
     "Other stuff/viewport.md",
     "React/JSX.md",
     "React/router.md",
-    "React/props.md",
-    "js/promises.md",
-    "js/localstorage.md",
-    "js/linting.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",

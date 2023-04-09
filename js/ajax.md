@@ -8,4 +8,4 @@ It is NOT one particular framework/technology but rather a series of techniques 
 Allows the core features for modern web apps:
 - Modular frontend/backend
 - Smooth UI/UX (operations don't block, taking advantage of the [[event loop]] to keep things running smoothly)
-- Offline access (saving data to [[localstorage]])
+- Offline access (saving data to [[local storage]])

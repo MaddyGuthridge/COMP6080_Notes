@@ -1,6 +1,6 @@
-Data can be stored on the user's machine with local storage.
+In [[JavaScript]], data can be stored on the user's machine with local storage.
 
-Can be used to store settings and the like.
+It is most often used for keeping track of user settings and the like.
 
 ## Cons
 
@@ -13,3 +13,6 @@ Access using
 let value = localStorage.getItem('key')
 localStorage.setItem('key', value)
 ```
+
+## Alternatives
+If you're using [[React]], you could consider [[Redux]].
