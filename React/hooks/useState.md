@@ -1,4 +1,4 @@
-`useState` is a function in [[React]] used to tell it when it needs to rerender a component.
+`useState` is a [[React hook]] used to tell [[React]] when it needs to re-render a component, by notifying it when the state of something changes.
 
 The function returns an array containing the value, and a function to set the value.
 

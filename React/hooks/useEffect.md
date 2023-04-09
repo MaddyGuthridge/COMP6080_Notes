@@ -1,4 +1,4 @@
-Used to trigger changes in a [[component]] whenever some kind of event happens.
+A [[React hook]] used to trigger changes in a [[component]] whenever some kind of event happens.
 
 ```jsx
 useEffect(() => {
