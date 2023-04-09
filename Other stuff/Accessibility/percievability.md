@@ -1,15 +1,15 @@
-Making sure people can tell what's there, even if they can't see the page.
+In order to be [[accessibility|accessible]], websites should be perceivable, meaning people can tell what's there, even if they can't see the page.
 
 ## Alt text
 Text that can be used as a replacement for images, used by screen readers.
 
-Good alt text
+Good alt-text
 - Describes the image
 - Is adapted to the context (eg tie it into the article)
 	- For interactive elements, describe what they do, rather than what they are (eg "save button", rather than "floppy disk")
 - Is an empty string for decorative images
 
-## Distinguishability
+## Distinguishable
 - Make text legible
 - Don't use images of text
 - Don't resist browser controls (eg zooming)

@@ -18,19 +18,31 @@
             }
           },
           {
+            "id": "2b5e05310ac22fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/Accessibility/percievability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5be6f46b1cea1a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/search engine optimisation.md",
+                "file": "Other stuff/Accessibility/robustness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff/search engine optimisation.md",
+                "file": "Other stuff/Accessibility/robustness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff/search engine optimisation.md",
+                "file": "Other stuff/Accessibility/robustness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff/search engine optimisation.md"
+                "file": "Other stuff/Accessibility/robustness.md"
               }
             }
           },
@@ -177,6 +189,9 @@
   },
   "active": "5be6f46b1cea1a18",
   "lastOpenFiles": [
+    "Other stuff/Accessibility/percievability.md",
+    "Other stuff/Accessibility/robustness.md",
+    "Other stuff/search engine optimisation.md",
     "README.md",
     "React/pre-rendering/Next.js.md",
     "Other stuff/ui/visual hierarchy.md",
@@ -185,7 +200,6 @@
     "CSS/inclusion.md",
     "CSS/mobile and desktop.md",
     "React/pre-rendering/pre-rendering.md",
-    "Other stuff/search engine optimisation.md",
     "React/pre-rendering/server-side rendering.md",
     "React/pre-rendering/static site generation.md",
     "React/single-page app.md",
@@ -202,8 +216,6 @@
     "Overview.md",
     "Other stuff/ui/user interface.md",
     "js/local storage.md",
-    "Other stuff/Redux/Redux.md",
-    "React/state management.md",
     "Other stuff/Redux",
     "React/hooks",
     "React",

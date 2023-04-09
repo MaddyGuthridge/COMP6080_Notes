@@ -1,6 +1,6 @@
-Content should be robust, meaning it can be interpreted by a wide range of user agent strings.
+In order to be [[accessibility|accessible]], content should be robust, meaning it can be interpreted by many different kinds of browsers.
 
-## HTML must be parseable
+## Make it parseable
 - Don't forget to close your tags and stuff
 - Add a doctype (`<!DOCTYPE html>`) just in case
 - No duplicate IDs
