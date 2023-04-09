@@ -1,1 +1,1 @@
-The area that the user can see.
+The area that the user can see of an [[HTML]] document.
