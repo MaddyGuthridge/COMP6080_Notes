@@ -1,8 +1,15 @@
-There are a variety of ways to include CSS in a document
+There are a variety of ways to include [[CSS]] in a document
 
 ## Import from external file
 ```html
 <link rel="stylesheet" href="style.css" />
+```
+
+```css
+/* style.css */
+.classname {
+  color: red;
+}
 ```
 
 - Browser can cache, speeding up load-times
@@ -11,6 +18,7 @@ There are a variety of ways to include CSS in a document
 
 ## Inline
 ```html
+<!-- CSS using the style property -->
 <div style="color: red">some text</div>
 ```
 
@@ -20,11 +28,12 @@ There are a variety of ways to include CSS in a document
 
 ```html
 <style>
+  /* CSS in a style tag */
   .classname {
-	color: red;
+	  color: red;
   }
 </style>
 ```
 
-- Good for quick work where multiple things need to use the same style
-- Use [[selectors]] in CSS to select elements of the HTML
+- Not used that much except for experiment
+- Use [[selectors]] in [[CSS]] to select elements of the [[HTML]]

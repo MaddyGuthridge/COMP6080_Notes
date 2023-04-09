@@ -10,4 +10,4 @@ Means you can get a proper tailored design, but you need to maintain two code-ba
 
 Website adapts between desktop and mobile.
 
-Use [[media queries]] to make pages render differently depending on context.
+Use [[CSS]] [[media queries]] to make pages render differently depending on context.

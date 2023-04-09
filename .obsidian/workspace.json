@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/search engine optimisation.md",
+                "file": "CSS/inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,19 +54,43 @@
             }
           },
           {
-            "id": "4dda898ec0978522",
+            "id": "e63d260ab7cd2129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/pre-rendering.md",
+                "file": "React/pre-rendering/static site generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df78155fc2fbcc48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/pre-rendering/server-side rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734d1c6b3d5aa520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/pre-rendering/Next.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/pre-rendering.md",
+                "file": "CSS/inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/pre-rendering.md",
+                "file": "CSS/inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/pre-rendering.md"
+                "file": "CSS/inclusion.md"
               }
             }
           },
@@ -211,11 +235,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dda898ec0978522",
+  "active": "63ad896d555c0950",
   "lastOpenFiles": [
+    "CSS/inclusion.md",
+    "CSS/mobile and desktop.md",
+    "React/pre-rendering/pre-rendering.md",
     "Other stuff/search engine optimisation.md",
+    "React/pre-rendering/Next.js.md",
+    "React/pre-rendering/server-side rendering.md",
+    "React/pre-rendering/static site generation.md",
     "React/single-page app.md",
-    "React/pre-rendering.md",
+    "React/pre-rendering",
     "README.md",
     "React/raw CSS in React.md",
     "CSS/properties.md",
@@ -234,12 +264,7 @@
     "CSS/selectors.md",
     "CSS/specificity.md",
     "Other stuff/Redux/store.md",
-    "Other stuff/Redux/action.md",
-    "Other stuff/Redux/reducer.md",
     "Other stuff/Redux",
-    "React/styled component.md",
-    "React/hooks/useState.md",
-    "React/hooks/useEffect.md",
     "React/hooks",
     "React",
     "Other stuff/ui",
