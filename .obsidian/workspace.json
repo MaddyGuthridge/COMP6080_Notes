@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/properties.md",
+                "file": "CSS/main properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/properties.md",
+                "file": "CSS/main properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/properties.md",
+                "file": "CSS/main properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/properties.md"
+                "file": "CSS/main properties.md"
               }
             }
           },
@@ -189,12 +189,13 @@
   },
   "active": "5be6f46b1cea1a18",
   "lastOpenFiles": [
-    "CSS/position.md",
     "CSS/color.md",
+    "CSS/CSS showcase/backgrounds.md",
+    "CSS/properties.md",
+    "CSS/position.md",
     "CSS/flexbox.md",
     "CSS/main properties.md",
     "CSS/text properties.md",
-    "CSS/properties.md",
     "CSS/selectors.md",
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/percievability.md",
@@ -215,7 +216,6 @@
     "React/component.md",
     "React/class component.md",
     "React/React.md",
-    "CSS/CSS showcase/backgrounds.md",
     "Other stuff/Redux",
     "React/hooks",
     "React",
