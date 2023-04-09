@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/Accessibility/robustness.md",
+                "file": "CSS/text properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff/Accessibility/robustness.md",
+                "file": "CSS/text properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff/Accessibility/robustness.md",
+                "file": "CSS/text properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff/Accessibility/robustness.md"
+                "file": "CSS/text properties.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "5be6f46b1cea1a18",
   "lastOpenFiles": [
-    "Other stuff/Accessibility/percievability.md",
+    "CSS/properties.md",
+    "CSS/selectors.md",
     "Other stuff/Accessibility/robustness.md",
+    "Other stuff/Accessibility/percievability.md",
     "Other stuff/search engine optimisation.md",
     "README.md",
     "React/pre-rendering/Next.js.md",
@@ -205,7 +207,6 @@
     "React/single-page app.md",
     "React/pre-rendering",
     "React/raw CSS in React.md",
-    "CSS/properties.md",
     "React/component.md",
     "React/class component.md",
     "React/React.md",
@@ -215,7 +216,6 @@
     "js/image encoding.md",
     "Overview.md",
     "Other stuff/ui/user interface.md",
-    "js/local storage.md",
     "Other stuff/Redux",
     "React/hooks",
     "React",
