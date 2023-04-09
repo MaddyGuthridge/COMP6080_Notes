@@ -5,19 +5,26 @@ Create the global context
 // context.jsx
 import React, { createCOntext } from 'react';
 
+// Create default values
 export const defaultValues = {
 	userName: null,
-	userToken: null
-}
+	userToken: null,
+};
+
+// Create the context to be us
+export const Context = createContext(initialValue);
+// Handy so we are importing from the same spot, makes the relationship 
+// more clear
+export const useContext = React.useContext; 
 ```
 
 Use the context provider in your main page
 ```jsx
-import { Context } from './context'; // what is this?
+import { Context, defaultValues } from './context';
 
 const App = () => {
-  const [userName, setUserName] = useState(0);
-  const [userToken, setUserToken] = useState(null);
+  const [userName, setUserName] = useState(defaultVales.userName);
+  const [userToken, setUserToken] = useState(defaultValues.userToken);
 
 	const getters = {
 	  userName,
@@ -34,3 +41,5 @@ const App = () => {
 	);
 }
 ```
+
+Finally
