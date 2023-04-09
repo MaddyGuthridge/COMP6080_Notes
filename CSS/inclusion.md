@@ -2,6 +2,7 @@ There are a variety of ways to include [[CSS]] in a document
 
 ## Import from external file
 ```html
+<!-- Link to external CSS stylesheet -->
 <link rel="stylesheet" href="style.css" />
 ```
 
@@ -14,7 +15,7 @@ There are a variety of ways to include [[CSS]] in a document
 
 - Browser can cache, speeding up load-times
 - Use [[selectors]] in [[CSS]] to select elements of the [[HTML]]
-- Preferred method
+- **Preferred method**
 
 ## Inline
 ```html
@@ -25,7 +26,6 @@ There are a variety of ways to include [[CSS]] in a document
 - Good for quick hacking around, since you won't mess with other stuff
 
 ## In document
-
 ```html
 <style>
   /* CSS in a style tag */
@@ -35,5 +35,5 @@ There are a variety of ways to include [[CSS]] in a document
 </style>
 ```
 
-- Not used that much except for experiment
+- Not used that much except for experimentation
 - Use [[selectors]] in [[CSS]] to select elements of the [[HTML]]

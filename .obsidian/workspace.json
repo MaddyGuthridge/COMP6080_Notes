@@ -23,74 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63ad896d555c0950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/inclusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "689c3bd50af079f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/single-page app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e63d260ab7cd2129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/pre-rendering/static site generation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df78155fc2fbcc48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/pre-rendering/server-side rendering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "734d1c6b3d5aa520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/pre-rendering/Next.js.md",
+                "file": "Other stuff/search engine optimisation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/inclusion.md",
+                "file": "Other stuff/search engine optimisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/inclusion.md",
+                "file": "Other stuff/search engine optimisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/inclusion.md"
+                "file": "Other stuff/search engine optimisation.md"
               }
             }
           },
@@ -235,18 +175,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63ad896d555c0950",
+  "active": "5be6f46b1cea1a18",
   "lastOpenFiles": [
+    "README.md",
+    "React/pre-rendering/Next.js.md",
+    "Other stuff/ui/visual hierarchy.md",
+    "Other stuff/ui/affordances.md",
+    "Other stuff/ui/less scary.md",
     "CSS/inclusion.md",
     "CSS/mobile and desktop.md",
     "React/pre-rendering/pre-rendering.md",
     "Other stuff/search engine optimisation.md",
-    "React/pre-rendering/Next.js.md",
     "React/pre-rendering/server-side rendering.md",
     "React/pre-rendering/static site generation.md",
     "React/single-page app.md",
     "React/pre-rendering",
-    "README.md",
     "React/raw CSS in React.md",
     "CSS/properties.md",
     "React/component.md",
@@ -261,9 +204,6 @@
     "js/local storage.md",
     "Other stuff/Redux/Redux.md",
     "React/state management.md",
-    "CSS/selectors.md",
-    "CSS/specificity.md",
-    "Other stuff/Redux/store.md",
     "Other stuff/Redux",
     "React/hooks",
     "React",

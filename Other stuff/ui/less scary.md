@@ -1,3 +1,5 @@
+By using good [[user interface|UI]] design practices, we can make our app less scary for users.
+
 - Alignment
 	- Makes things look trustworthy
 	- Even when things aren't aligned, they're still secretly aligned, perhaps by using multiple rows of a grid

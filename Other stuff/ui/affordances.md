@@ -1,4 +1,4 @@
-Affordances are visual properties of something that show what it is (eg a handle on a door shows you can open it).
+Affordances are visual properties of a [[user interface|UI]] element that show what it is (eg a button with "Click me" text on it).
 
 ## Types of affordances
 
