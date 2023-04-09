@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "4a570325f5f93e94",
+            "id": "1cf2a5cc98fab4c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "React/class component.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "React/class component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "React/class component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "React/class component.md"
               }
             }
           },
@@ -175,13 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a570325f5f93e94",
+  "active": "1cf2a5cc98fab4c7",
   "lastOpenFiles": [
+    "React/React.md",
+    "React/class component.md",
+    "README.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/CSS showcase/CSS showcase.md",
     "HTML/body.md",
     "js/image encoding.md",
-    "README.md",
     "Overview.md",
     "Other stuff/ui/user interface.md",
     "js/local storage.md",
@@ -202,9 +204,7 @@
     "CSS/flexbox.md",
     "js/DOM.md",
     "HTML/HTML.md",
-    "React/raw CSS in React.md",
     "React/hooks",
-    "js/transpilation.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
