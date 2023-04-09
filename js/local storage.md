@@ -6,13 +6,13 @@ It is most often used for keeping track of user settings and the like.
 
 - NOT SECURE!!! Don't use it for sensitive info.
 - Might hit quota limit if other websites are using lots of data (yes that's right you can waste the storage space of other websites)
-- Only stores strings, so need to use JSON serialisation for it
+- Only stores strings, so need to use JSON serialisation for it or something
 
 Access using
-```js
+```javascript
 let value = localStorage.getItem('key')
 localStorage.setItem('key', value)
 ```
 
 ## Alternatives
-If you're using [[React]], you could consider [[Redux]].
+For bigger projects, consider [[Redux]].

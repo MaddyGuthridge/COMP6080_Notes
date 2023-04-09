@@ -12,7 +12,7 @@ Selectors are defined within [[CSS]] to control which elements of the [[HTML]] h
 `.classname` is the selector.
 
 ## Class
-Preceding with a `.` dot will make it match a `class` so its [[properties]] can be applied to specific elements
+Preceding with a `.` dot will make it match a `class` so its CSS [[properties]] can be applied to specific elements.
 
 ```html
 <style>
@@ -75,14 +75,13 @@ Using a `*` (universal selector) will apply the style to everything.
 ```
 
 ### WARNING!!!
-Using the universal selector is considered very bad style, as it will apply the properties to every element individually, which will break the cascading nature of CSS. 
+Using the universal selector is considered very bad style, as it will apply the properties to every element individually, which will break the cascading nature of [[CSS]]. 
 Instead, you should apply the properties to the [[body]] tag so that they have a low [[specificity]], allowing them to be overridden if needed.
 
 ## Combinations
 You can combine the above selectors.
 
-Consider the following HTML
-
+Consider the following:
 ```html
 <!-- Yoinked straight from the lecture slides -->
 <div class="A">

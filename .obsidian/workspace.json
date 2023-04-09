@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "253b5c59dac3bbfe",
+            "id": "ffe5b61759ca4d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/store.md",
+                "file": "Other stuff/Redux/store.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/action.md",
+                "file": "Other stuff/Redux/action.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/reducer.md",
+                "file": "Other stuff/Redux/reducer.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Redux.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/Redux.md"
+                "file": "README.md"
               }
             }
           },
@@ -211,15 +211,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "253b5c59dac3bbfe",
+  "active": "bb37648729f379b7",
   "lastOpenFiles": [
-    "React/Redux/store.md",
-    "React/Redux/action.md",
-    "React/Redux/reducer.md",
-    "React/Redux/Redux.md",
-    "React/Redux",
+    "Overview.md",
+    "HTML/body.md",
     "js/local storage.md",
+    "Other stuff/Redux/Redux.md",
     "React/state management.md",
+    "CSS/selectors.md",
+    "CSS/specificity.md",
+    "Other stuff/Redux/store.md",
+    "Other stuff/Redux/action.md",
+    "Other stuff/Redux/reducer.md",
+    "Other stuff/Redux",
     "React/styled component.md",
     "React/hooks/useState.md",
     "React/hooks/useEffect.md",
@@ -237,10 +241,6 @@
     "CSS/properties.md",
     "HTML/block element.md",
     "React/component library.md",
-    "Other stuff/mobile and desktop.md",
-    "Other stuff/viewport.md",
-    "React/JSX.md",
-    "React/router.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
