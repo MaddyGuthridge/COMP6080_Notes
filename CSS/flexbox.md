@@ -1,8 +1,8 @@
-Powerful tool for having things automagically resize and regroup.
+Powerful tool for having elements automagically resize and regroup as required by the screen size.
 
 See: [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-Compare with: [[css grid]]
+Compare with: [[CSS grid]]
 
 Use properties
 ```css

@@ -8,31 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b20195f5ff28f433",
+            "id": "6d0c18fe3fca1095",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "253b5c59dac3bbfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js/DOM.md",
+                "file": "React/state management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2ee777b8d301415",
+            "id": "6b70c9cf5b9f51ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/hooks/useEffect.md",
+                "file": "React/Redux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a65618953f8118f",
+            "id": "afe6008fe312f5cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,20 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "50e35df94807e506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/hooks/useEffect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js/DOM.md",
+                "file": "React/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js/DOM.md",
+                "file": "React/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js/DOM.md"
+                "file": "React/Redux.md"
               }
             }
           },
@@ -200,14 +199,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b20195f5ff28f433",
+  "active": "6b70c9cf5b9f51ac",
   "lastOpenFiles": [
-    "React/hooks/React hook.md",
-    "React/hooks/useContext.md",
+    "React/state management.md",
+    "React/Redux.md",
+    "React/styled component.md",
     "React/hooks/useState.md",
     "React/hooks/useEffect.md",
+    "React/hooks/useContext.md",
+    "React/hooks/hook.md",
+    "CSS/CSS grid.md",
+    "CSS/flexbox.md",
+    "js/DOM.md",
+    "HTML/HTML.md",
     "React/raw CSS in React.md",
-    "React/styled component.md",
     "React/hooks",
     "Other stuff/transpilation.md",
     "js/JavaScript.md",
@@ -223,12 +228,6 @@
     "js/promises.md",
     "js/localstorage.md",
     "js/linting.md",
-    "js/DOM.md",
-    "React/React.md",
-    "Other stuff/Accessibility/understandability.md",
-    "conflict-files-obsidian-git.md",
-    "Other stuff/Accessibility/operability.md",
-    "js/fetch.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",

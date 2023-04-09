@@ -1,4 +1,4 @@
-Essentially a much more stylable table element.
+CSS grid is essentially a more styleable table element. Used to create a grid structure on a web page. It is a [[CSS]] display type that can be applied to [[HTML]] [[block element|block elements]].
 
 Compare with: [[flexbox]]
 
