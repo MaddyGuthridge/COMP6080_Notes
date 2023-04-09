@@ -1,1 +1,1 @@
-Element that will always start on a new line (eg [[div]])
+A block element is an [[HTML]] element that will always start on a new line (eg [[div]]).

@@ -14,4 +14,4 @@ function MyComponent() {
 }
 ```
 
-To fix this awfulness, you'll want to use CSS modules or CSS-in-JS.
+To fix this awfulness, you'll want to use a component library.

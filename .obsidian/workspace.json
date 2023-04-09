@@ -11,8 +11,36 @@
             "id": "66d72fc558510381",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/React CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab5e47a176bbce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/component library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b20195f5ff28f433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/block element.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -94,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/properties.md",
+                "file": "React/component library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/properties.md",
+                "file": "React/component library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/properties.md"
+                "file": "React/component library.md"
               }
             }
           },
@@ -173,8 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ce0d75f7160115b",
+  "active": "7ab5e47a176bbce8",
   "lastOpenFiles": [
+    "React/React CSS.md",
+    "React/component library.md",
+    "Other stuff/mobile and desktop.md",
+    "HTML/block element.md",
     "CSS/properties.md",
     "Other stuff/viewport.md",
     "React/JSX.md",
@@ -186,7 +218,6 @@
     "js/linting.md",
     "js/DOM.md",
     "React/React.md",
-    "React/React CSS.md",
     "React/useEffect.md",
     "React/useState.md",
     "Other stuff/Accessibility/understandability.md",
@@ -199,9 +230,6 @@
     "HTML gimmick.md",
     "README.md",
     "Other stuff/Accessibility/role.md",
-    "CSS/selectors.md",
-    "CSS/inclusion.md",
-    "CSS/text properties.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",
