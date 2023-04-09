@@ -1,5 +1,7 @@
 In [[React]], you should build a page by creating a set of components, which can then be rendered.
 
+See also: [[class component]]
+
 Essentially, you create a function which returns [[JSX]] HTML, which gets rendered into a component.
 
 ```jsx

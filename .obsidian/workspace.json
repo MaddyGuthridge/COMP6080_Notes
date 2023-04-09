@@ -18,19 +18,55 @@
             }
           },
           {
-            "id": "1cf2a5cc98fab4c7",
+            "id": "5be6f46b1cea1a18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/class component.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63ad896d555c0950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff/search engine optimisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689c3bd50af079f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/single-page app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dda898ec0978522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/pre-rendering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/class component.md",
+                "file": "React/pre-rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/class component.md",
+                "file": "React/pre-rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/class component.md"
+                "file": "React/pre-rendering.md"
               }
             }
           },
@@ -175,11 +211,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1cf2a5cc98fab4c7",
+  "active": "4dda898ec0978522",
   "lastOpenFiles": [
-    "React/React.md",
-    "React/class component.md",
+    "Other stuff/search engine optimisation.md",
+    "React/single-page app.md",
+    "React/pre-rendering.md",
     "README.md",
+    "React/raw CSS in React.md",
+    "CSS/properties.md",
+    "React/component.md",
+    "React/class component.md",
+    "React/React.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/CSS showcase/CSS showcase.md",
     "HTML/body.md",
@@ -198,12 +240,6 @@
     "React/styled component.md",
     "React/hooks/useState.md",
     "React/hooks/useEffect.md",
-    "React/hooks/useContext.md",
-    "React/hooks/hook.md",
-    "CSS/CSS grid.md",
-    "CSS/flexbox.md",
-    "js/DOM.md",
-    "HTML/HTML.md",
     "React/hooks",
     "React",
     "Other stuff/ui",

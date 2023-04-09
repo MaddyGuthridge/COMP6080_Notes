@@ -24,3 +24,4 @@ A framework for making [[declarative UI]] single-page web apps.
 - [[accessibility|Accessibility]]
 - [[User interface]]
 - [[Redux]]
+- [[Search engine optimisation]]

@@ -22,9 +22,14 @@ class App extends React.Component {
 		return (
 			<div>
 				<p>Hello, {this.state.name}! You are {this.state.age} years old.</p>
-				
 			</div>
 		)
 	}
 }
+```
+
+## Changing the state
+```js
+// Yuck, so verbose
+this.setState({ ...this.state, any, new, values });
 ```
