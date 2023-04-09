@@ -1,4 +1,4 @@
-User interfaces are the interfaces that people use to interact with software.
+User interfaces (UIs) are the interfaces that people use to interact with software.
 
 ## UI vs UX
 - UI focuses on how the app looks (fonts, layout, and other pretty-pretty things)

@@ -1,0 +1,1 @@
+Small images can be encoded as a base-64 string to prevent the browser from needing to make extra [[fetch]] requests. For large images, it's probably better to make the request first and leave a place-holder while you wait for it to load.

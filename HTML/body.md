@@ -16,7 +16,7 @@ There are many body elements for use in [[HTML]].
 - `<div>` vertical sections (see [[div]])
 - `<img>` image
 - `<a>` [[anchor]] (used for links)
-- `<style>` [[CSS]] within the HTML document (see [[style]])
+- `<style>` [[CSS]] within the [[HTML]] document (see [[style]])
 - `<blockquote>` 
           > A quote
 - `<code>` used to contain code, displayed in a monospace font - often wrapped inside `<pre>` to respect whitespace. Used to help web crawlers and screen readers find code on the page

@@ -1,4 +1,4 @@
-Fancy stuff you can do with backgrounds
+Fancy stuff you can do with backgrounds in [[CSS]]
 
 ### `linear-gradient()`
 Create a gradient background

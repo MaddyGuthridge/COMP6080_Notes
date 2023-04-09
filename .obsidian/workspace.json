@@ -18,48 +18,12 @@
             }
           },
           {
-            "id": "ffe5b61759ca4d21",
+            "id": "4a570325f5f93e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb2b8349c36a0813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/Redux/store.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d91859add37d2b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/Redux/action.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92843615158d8b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other stuff/Redux/reducer.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,10 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb37648729f379b7",
+  "active": "4a570325f5f93e94",
   "lastOpenFiles": [
-    "Overview.md",
+    "CSS/CSS showcase/backgrounds.md",
+    "CSS/CSS showcase/CSS showcase.md",
     "HTML/body.md",
+    "js/image encoding.md",
+    "README.md",
+    "Overview.md",
+    "Other stuff/ui/user interface.md",
     "js/local storage.md",
     "Other stuff/Redux/Redux.md",
     "React/state management.md",
@@ -235,12 +204,7 @@
     "HTML/HTML.md",
     "React/raw CSS in React.md",
     "React/hooks",
-    "Other stuff/transpilation.md",
-    "js/JavaScript.md",
-    "js/ajax.md",
-    "CSS/properties.md",
-    "HTML/block element.md",
-    "React/component library.md",
+    "js/transpilation.md",
     "React",
     "Other stuff/ui",
     "Other stuff/Accessibility",

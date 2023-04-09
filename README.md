@@ -8,18 +8,19 @@ Note that most of the examples were yoinked from lecture content.
 - I wrote these notes in [Obsidian](https://obsidian.md/). To get all the links working, you should clone the repository and open it with that.
 
 # Table of contents
-### [[HTML]]
+## [[HTML]]
 Content (made up of a [[head]] and a [[body]])
 
-### [[CSS]]
+## [[CSS]]
 Cascading style sheets, used to make things look pretty
 
-### [[JavaScript]]
+## [[JavaScript]]
 A yucky programming language for managing content in web apps.
 
-### [[React]]
-A framework for making declarative single-page web apps.
+## [[React]]
+A framework for making [[declarative UI]] single-page web apps.
 
-### Other Stuff
+## Other Stuff
 - [[accessibility|Accessibility]]
+- [[User interface]]
 - [[Redux]]
