@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d872e9b5a02ef84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Xpath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/UI testing.md",
+                "file": "Testing/Xpath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/UI testing.md",
+                "file": "Testing/Xpath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/UI testing.md"
+                "file": "Testing/Xpath.md"
               }
             }
           },
@@ -175,12 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775b029b3ccbe367",
+  "active": "d872e9b5a02ef84d",
   "lastOpenFiles": [
-    "Testing/unit testing.md",
     "Testing/UI testing.md",
-    "Testing/component testing.md",
+    "Testing/Xpath.md",
     "Testing/integration testing.md",
+    "js/DOM.md",
+    "Testing/unit testing.md",
+    "Testing/component testing.md",
     "Testing/testing.md",
     "README.md",
     "CSS/CSS grid.md",
@@ -202,8 +216,6 @@
     "Other stuff/ui/less scary.md",
     "CSS/inclusion.md",
     "CSS/mobile and desktop.md",
-    "React/pre-rendering/pre-rendering.md",
-    "React/pre-rendering/server-side rendering.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",
