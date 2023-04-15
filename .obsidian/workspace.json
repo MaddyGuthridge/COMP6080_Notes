@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "0bf1344c6b09df02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Jest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5b2085854fcb69dc",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Cypress.md",
+                "file": "Testing/Jest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Cypress.md",
+                "file": "Testing/Jest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Cypress.md"
+                "file": "Testing/Jest.md"
               }
             }
           },
@@ -211,11 +223,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5db3ecf896d80e4f",
+  "active": "0bf1344c6b09df02",
   "lastOpenFiles": [
+    "Testing/Cypress.md",
+    "Testing/Jest.md",
     "CSS/float.md",
     "CSS/position.md",
-    "Testing/Cypress.md",
     "Testing/UI test.md",
     "Testing/end-to-end test.md",
     "Testing/component test.md",
@@ -239,7 +252,6 @@
     "Other stuff/Accessibility/percievability.md",
     "Other stuff/search engine optimisation.md",
     "React/pre-rendering/Next.js.md",
-    "Other stuff/ui/visual hierarchy.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",
