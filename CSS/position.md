@@ -1,4 +1,4 @@
-The position property can be used to control positions of elements. See also: [[float]]
+The position property in [[CSS]] can be used to control positions of elements. See also: [[float]]
 
 ### `static`
 The default

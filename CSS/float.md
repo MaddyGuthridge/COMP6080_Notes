@@ -1,3 +1,3 @@
-Adds "floating" elements on the left or right, allowing other elements to wrap around it.
+The `float` property in [[CSS]] lets elements "float" on the left or right, allowing other elements to wrap around them.
 
-Is sorta old and janky, so avoid it if possible.
+Is sorta old and janky, so avoid it if possible. Consider [[CSS grid]] instead.

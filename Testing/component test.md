@@ -32,3 +32,8 @@ describe('<Button />', () => {
 Try this order
 - `getByRole` - this ensures it is working for [[accessibility]]
 - other [[selectors]] (idk what they are the lectures didn't say)
+
+## Things to test for
+- The component renders
+- Its functionality can be accessed (eg input validation, buttons calling callbacks, etc)
+- It is accessible.

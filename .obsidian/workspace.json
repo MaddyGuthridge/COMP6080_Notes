@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/UI test.md",
+                "file": "Testing/flaky tests.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/flaky tests.md",
+                "file": "Testing/Cypress.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/end-to-end test.md",
+                "file": "Testing/component test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/end-to-end test.md",
+                "file": "Testing/Cypress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/end-to-end test.md",
+                "file": "Testing/Cypress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/end-to-end test.md"
+                "file": "Testing/Cypress.md"
               }
             }
           },
@@ -211,17 +211,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b2085854fcb69dc",
+  "active": "5db3ecf896d80e4f",
   "lastOpenFiles": [
-    "Testing/flaky tests.md",
+    "CSS/float.md",
+    "CSS/position.md",
+    "Testing/Cypress.md",
+    "Testing/UI test.md",
     "Testing/end-to-end test.md",
     "Testing/component test.md",
+    "Testing/flaky tests.md",
+    "Testing/Xpath.md",
+    "Testing/testing.md",
     "Testing/integration test.md",
     "Testing/unit test.md",
-    "Testing/UI test.md",
-    "Testing/Xpath.md",
     "js/DOM.md",
-    "Testing/testing.md",
     "README.md",
     "CSS/CSS grid.md",
     "Testing",
@@ -230,7 +233,6 @@
     "CSS/color.md",
     "CSS/CSS showcase/backgrounds.md",
     "CSS/properties.md",
-    "CSS/position.md",
     "CSS/flexbox.md",
     "CSS/text properties.md",
     "Other stuff/Accessibility/robustness.md",
@@ -238,8 +240,6 @@
     "Other stuff/search engine optimisation.md",
     "React/pre-rendering/Next.js.md",
     "Other stuff/ui/visual hierarchy.md",
-    "Other stuff/ui/affordances.md",
-    "Other stuff/ui/less scary.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",

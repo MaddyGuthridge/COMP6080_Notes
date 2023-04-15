@@ -2,7 +2,7 @@ UI testing is the process of [[testing]] [[user interface|user interfaces]] to e
 
 ## When to write UI tests
 - Always cover the "happy path" (where we want to be sure that it is working correctly).
-- We don't always need to cover other paths, but if they are common, we should do so.
+- We don't always need to cover other paths, but if they are common, we should write tests for them.
 
 ## How UI testing works
 There are various strategies we can use to test a UI
@@ -17,6 +17,7 @@ We can also automate a web browser by using a Webdriver, which allows us to prog
 
 Examples:
 - [Selenium](https://www.selenium.dev/)
+- [[Cypress]]
 
 ## Locators
 A locator is used to locate elements within the DOM.

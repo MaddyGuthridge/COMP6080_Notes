@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "Testing",
+      "query": "Tests",
       "color": {
         "a": 1,
         "rgb": 14701276
@@ -67,6 +67,6 @@
   "repelStrength": 12.1875,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.40161515953592725,
+  "scale": 0.2807131894625536,
   "close": false
 }
