@@ -1,4 +1,4 @@
-Component testing is the process of [[testing]] that a component is working correctly. It is a type of [[unit testing]].
+Component testing is the process of [[testing]] that a component is working correctly. They are a type of [[unit test]].
 
 ```jsx
 // Import functions for rendering elements and checking their output
