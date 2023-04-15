@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 9625682
       }
+    },
+    {
+      "query": "Testing",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
     }
   ],
   "collapse-display": true,

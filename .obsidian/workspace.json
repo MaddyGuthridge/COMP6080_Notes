@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "ecf0f7dba743238f",
+            "id": "775b029b3ccbe367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aabcc381787b4d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/component testing.md",
+                "file": "Testing/UI testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/component testing.md",
+                "file": "Testing/UI testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/component testing.md",
+                "file": "Testing/UI testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/component testing.md"
+                "file": "Testing/UI testing.md"
               }
             }
           },
@@ -187,10 +175,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4aabcc381787b4d3",
+  "active": "775b029b3ccbe367",
   "lastOpenFiles": [
     "Testing/unit testing.md",
+    "Testing/UI testing.md",
     "Testing/component testing.md",
+    "Testing/integration testing.md",
     "Testing/testing.md",
     "README.md",
     "CSS/CSS grid.md",
@@ -214,8 +204,6 @@
     "CSS/mobile and desktop.md",
     "React/pre-rendering/pre-rendering.md",
     "React/pre-rendering/server-side rendering.md",
-    "React/pre-rendering/static site generation.md",
-    "React/single-page app.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",
