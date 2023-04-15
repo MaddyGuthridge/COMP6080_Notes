@@ -1,4 +1,4 @@
-Testing framework for [[JavaScript]].
+[[Testing]] framework for [[JavaScript]].
 
 ## Syntax
 ```js
