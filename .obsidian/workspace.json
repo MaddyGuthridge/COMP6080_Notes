@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/flaky tests.md",
+                "file": "Other stuff/Redux/Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Other stuff/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Other stuff/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Other stuff/Redux/Redux.md"
+              }
             }
           },
           {
@@ -218,8 +223,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d0c18fe3fca1095",
+  "active": "775b029b3ccbe367",
   "lastOpenFiles": [
+    "Other stuff/Redux/store.md",
     "Testing/Xpath.md",
     "Testing/Jest.md",
     "Testing/Cypress.md",
@@ -246,7 +252,6 @@
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/percievability.md",
     "Other stuff/search engine optimisation.md",
-    "React/pre-rendering/Next.js.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",
