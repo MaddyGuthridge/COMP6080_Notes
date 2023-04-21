@@ -18,60 +18,12 @@
             }
           },
           {
-            "id": "775b029b3ccbe367",
+            "id": "8dc9233b280aad61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff/Redux/Redux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d872e9b5a02ef84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Xpath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5db3ecf896d80e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Cypress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bf1344c6b09df02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Jest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b2085854fcb69dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/component test.md",
+                "file": "React/hooks/useContext.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff/Redux/Redux.md",
+                "file": "React/hooks/useContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff/Redux/Redux.md",
+                "file": "React/hooks/useContext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff/Redux/Redux.md"
+                "file": "React/hooks/useContext.md"
               }
             }
           },
@@ -223,8 +175,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775b029b3ccbe367",
+  "active": "8dc9233b280aad61",
   "lastOpenFiles": [
+    "Other stuff/Redux/Redux.md",
     "Other stuff/Redux/store.md",
     "Testing/Xpath.md",
     "Testing/Jest.md",
@@ -251,7 +204,6 @@
     "CSS/text properties.md",
     "Other stuff/Accessibility/robustness.md",
     "Other stuff/Accessibility/percievability.md",
-    "Other stuff/search engine optimisation.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",

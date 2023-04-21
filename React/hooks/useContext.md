@@ -3,7 +3,7 @@
 Create the global context
 ```jsx
 // context.jsx
-import React, { createCOntext } from 'react';
+import React, { createContext } from 'react';
 
 // Create default values
 export const defaultValues = {
