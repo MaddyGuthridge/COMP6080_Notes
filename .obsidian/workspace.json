@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/router.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18c5fb16a952813b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/router.md",
+                "file": "Exam Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/router.md",
+                "file": "Exam Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/router.md"
+                "file": "Exam Todo.md"
               }
             }
           },
@@ -175,10 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dc9233b280aad61",
+  "active": "18c5fb16a952813b",
   "lastOpenFiles": [
-    "Testing/flaky tests.md",
+    "README.md",
+    "Exam Todo.md",
     "React/router.md",
+    "Testing/flaky tests.md",
     "React/hooks/useContext.md",
     "Other stuff/Redux/Redux.md",
     "Other stuff/Redux/store.md",
@@ -194,7 +208,6 @@
     "Testing/integration test.md",
     "Testing/unit test.md",
     "js/DOM.md",
-    "README.md",
     "CSS/CSS grid.md",
     "Testing",
     "CSS/selectors.md",
@@ -203,7 +216,6 @@
     "CSS/CSS showcase/backgrounds.md",
     "CSS/properties.md",
     "CSS/flexbox.md",
-    "CSS/text properties.md",
     "React/pre-rendering",
     "Other stuff/Redux",
     "React/hooks",
